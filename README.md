@@ -41,8 +41,8 @@ https://komarev.com/ghpvc/
 # Wanna play?
  <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>
-    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/steam-icon.svg" alt="Steam"></a></th>
-    <td><a href="https://twitter.com/wotanCode"><img src="svg/chess-icon.svg" alt="Chess"></a></th>
+    <!--<td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>-->
+    <td><a href="https://steamcommunity.com/id/idzenc"><img src="svg/steam-icon.svg" alt="Steam"></a></th>
+    <td><a href="https://www.chess.com/member/caballerodeplata"><img src="svg/chess-icon.svg" alt="Chess"></a></th>
   </tr>
  </table>
