@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-https://komarev.com/ghpvc/?username=wotanCode&color=2685BF
 
+<!-- Repositorio original de esta funciona https://komarev.com/ghpvc/ -->
+![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=2685BF)
 
 <!--
 **wotanCode/wotanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
