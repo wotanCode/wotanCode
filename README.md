@@ -1,9 +1,51 @@
+<img align='left' src='gif/computer1.gif' width='10%'/> 
+
+<h1 align="left">Hello World!</h1>
+
+<h3 align="left">
+  Welcome to wotanCode's profile!
+</h3>
+
 <!--
 Mensaje typing
 https://github.com/DenverCoder1/readme-typing-svg
--->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=120&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!)
+-->
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=120&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!"/>
 
+<h1>Technologies</h1>
+<table align='center'>
+  <tr>
+    <td align='center'>Frontend</td>
+    <td align='center'>HTML5</td>
+    <td align='center'>CSS3</td>
+    <td align='center'>Javascript</td>
+    <td align='center'>Bootstrap</td>
+    <td align='center'>React</td>
+  </tr>
+  <tr>
+    <td align='center'>Backend</td>
+    <td align='center'>Python</td>
+  </tr>
+  <tr>
+    <td align='center'>Database</td>
+    <td align='center'>MySQL</td>
+  </tr>
+  <tr>
+    <td align='center'>IDE's</td>
+    <td align='center'>Visual Studio Code</td>
+  </tr>
+ <tr>
+    <td align='center'>Desing</td>
+    <td align='center'>Photoshop</td>
+  </tr>
+   <tr>
+    <td align='center'>Others</td>
+    <td align='center'>Git</td>
+  </tr>
+ </table>
+
+<h1>Statistics</h1>
 <!--
 Repositorio para la Card de los lenguajes utilizados
 https://github.com/anuraghazra/github-readme-stats
@@ -38,7 +80,7 @@ https://github.com/denvercoder1/github-readme-streak-stats
 </h3>
 
 
-# Wanna play?
+## Wanna play?
 <table align='center'>
   <tr>
     <!--<td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>-->
@@ -47,7 +89,7 @@ https://github.com/denvercoder1/github-readme-streak-stats
   </tr>
 </table>
 
-# Social
+## Social
 <table align='center'>
   <tr>
     <td align='center'><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="img/social/linkedin-icon.png" alt="linkedin" width=60></a></td>
@@ -63,5 +105,8 @@ https://komarev.com/ghpvc/
 ![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=2685BF)
 -->
 <h3 align='center'>
+ <p>
+  <img src='gif/computer2.gif'/>
+ </p>
   <img src="https://komarev.com/ghpvc/?username=wotanCode&color=2685BF">
 </h3>
