@@ -42,18 +42,18 @@ https://github.com/denvercoder1/github-readme-streak-stats
 <table align='center'>
   <tr>
     <!--<td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>-->
-    <td align='center'><a href="https://steamcommunity.com/id/idzenc"><img src="iconpng/wannaplay/steam-icon.png" alt="Steam" width=60></a></td>
-    <td align='center'><a href="https://www.chess.com/member/caballerodeplata"><img src="iconpng/wannaplay/chess-icon.png" alt="Chess" width=60></a></td>
+    <td align='center'><a href="https://steamcommunity.com/id/idzenc"><img src="img/wannaplay/steam-icon.png" alt="Steam" width=60></a></td>
+    <td align='center'><a href="https://www.chess.com/member/caballerodeplata"><img src="img/wannaplay/chess-icon.png" alt="Chess" width=60></a></td>
   </tr>
 </table>
 
 # Social
 <table align='center'>
   <tr>
-    <td align='center'><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="iconpng/social/linkedin-icon.png" alt="linkedin" width=60></a></td>
-    <td align='center'><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="iconpng/social/youtube-iconv2.png" alt="youtube" width=60></a></td>
-    <td align='center'><a href="https://twitter.com/wotanCode"><img src="iconpng/social/twitter-icon.png" alt="twitter" width=60></a></td>
-    <td align='center'><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="iconpng/social/facebook-iconv2.png" alt="facebook" width=60></a></td>
+    <td align='center'><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="img/social/linkedin-icon.png" alt="linkedin" width=60></a></td>
+    <td align='center'><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="img/social/youtube-iconv2.png" alt="youtube" width=60></a></td>
+    <td align='center'><a href="https://twitter.com/wotanCode"><img src="img/social/twitter-icon.png" alt="twitter" width=60></a></td>
+    <td align='center'><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="img/social/facebook-iconv2.png" alt="facebook" width=60></a></td>
   </tr>
  </table>
  
