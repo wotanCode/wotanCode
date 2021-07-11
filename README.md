@@ -32,7 +32,7 @@ https://komarev.com/ghpvc/
 <table>
   <tr>
     <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="iconpng/social/linkedin-icon.png" alt="linkedin" width=100></a></td>
-    <td><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="iconpng/social/youtube-icon.png" alt="youtube" width=100></a></td>
+    <td><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="iconpng/social/youtube-iconv2.png" alt="youtube" width=100></a></td>
     <td><a href="https://twitter.com/wotanCode"><img src="iconpng/social/twitter-icon.png" alt="twitter" width=100></a></td>
     <td><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="iconpng/social/facebook-icon.png" alt="facebook" width=100></a></td>
   </tr>
