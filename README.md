@@ -1,4 +1,10 @@
 <!--
+Mensaje typing
+https://github.com/DenverCoder1/readme-typing-svg
+-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=100&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!)](https://git.io/typing-svg)
+
+<!--
 Repositorio para la Card de los lenguajes utilizados
 https://github.com/anuraghazra/github-readme-stats
 -->
