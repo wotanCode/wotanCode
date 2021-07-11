@@ -2,7 +2,7 @@
 Mensaje typing
 https://github.com/DenverCoder1/readme-typing-svg
 -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=100&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=120&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!)
 
 <!--
 Repositorio para la Card de los lenguajes utilizados
