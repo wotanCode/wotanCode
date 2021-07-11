@@ -27,3 +27,22 @@ Repositorio original de la funcion de visitas
 https://komarev.com/ghpvc/
 -->
 ![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=2685BF)
+
+# Social
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/linkedin-icon.svg" alt="linkedin"></a></th>
+    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/youtube-icon.svg" alt="youtube"></a></th>
+    <td><a href="https://twitter.com/wotanCode"><img src="svg/twitter-icon.svg" alt="twitter"></a></th>
+    <td><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="svg/facebook-icon.svg" alt="facebook"></a></th>
+  </tr>
+ </table>
+
+# Wanna play?
+ <table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>
+    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/steam-icon.svg" alt="Steam"></a></th>
+    <td><a href="https://twitter.com/wotanCode"><img src="svg/chess-icon.svg" alt="Chess"></a></th>
+  </tr>
+ </table>
