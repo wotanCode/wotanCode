@@ -15,7 +15,7 @@ https://github.com/anuraghazra/github-readme-stats
 Repositorio para grafico de actividad
 https://github.com/Ashutosh00710/github-readme-activity-graph
 -->
-[![wotanCode github activity graph](https://activity-graph.herokuapp.com/graph?username=wotanCode&area=true&hide_border=true&line=3AFC30&theme=react-dark)](https://github.com/wotanCode/github-readme-activity-graph)
+[![wotanCode github activity graph](https://activity-graph.herokuapp.com/graph?username=wotanCode&area=true&hide_border=true&line=3AFC30&theme=react-dark)](https://github.com/wotanCode/)
 
 <!--
 Repositorio para esta Card
