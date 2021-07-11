@@ -31,10 +31,10 @@ https://komarev.com/ghpvc/
 # Social
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/linkedin-icon.svg" alt="linkedin"></a></th>
-    <td><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="svg/youtube-icon.svg" alt="youtube"></a></th>
-    <td><a href="https://twitter.com/wotanCode"><img src="svg/twitter-icon.svg" alt="twitter"></a></th>
-    <td><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="svg/facebook-icon.svg" alt="facebook"></a></th>
+    <td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="iconpng/social/linkedin-icon.png" alt="linkedin" width=100></a></td>
+    <td><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="iconpng/social/youtube-icon.png" alt="youtube" width=100></a></td>
+    <td><a href="https://twitter.com/wotanCode"><img src="iconpng/social/twitter-icon.png" alt="twitter" width=100></a></td>
+    <td><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="iconpng/social/facebook-icon.png" alt="facebook" width=100></a></td>
   </tr>
  </table>
 
@@ -42,7 +42,7 @@ https://komarev.com/ghpvc/
  <table>
   <tr>
     <!--<td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>-->
-    <td><a href="https://steamcommunity.com/id/idzenc"><img src="svg/steam-icon.svg" alt="Steam"></a></th>
-    <td><a href="https://www.chess.com/member/caballerodeplata"><img src="svg/chess-icon.svg" alt="Chess"></a></th>
+    <td><a href="https://steamcommunity.com/id/idzenc"><img src="iconpng/wannaplay/steam-icon.png" alt="Steam" width=100></a></td>
+    <td><a href="https://www.chess.com/member/caballerodeplata"><img src="iconpng/wannaplay/chess-icon.png" alt="Chess" width=100></a></td>
   </tr>
  </table>
