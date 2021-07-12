@@ -16,7 +16,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 <h1>Technologies</h1>
 <table align='center'>
   <tr>
-    <td align='center'>Frontend</td>
+    <th align='center'>Frontend</th>
     <td align='center'>HTML5</td>
     <td align='center'>CSS3</td>
     <td align='center'>Javascript</td>
@@ -24,23 +24,23 @@ https://github.com/DenverCoder1/readme-typing-svg
     <td align='center'>React</td>
   </tr>
   <tr>
-    <td align='center'>Backend</td>
+    <th align='center'>Backend</th>
     <td align='center'>Python</td>
   </tr>
   <tr>
-    <td align='center'>Database</td>
+    <th align='center'>Database</th>
     <td align='center'>MySQL</td>
   </tr>
   <tr>
-    <td align='center'>IDE's</td>
+    <th align='center'>IDE's</th>
     <td align='center'>Visual Studio Code</td>
   </tr>
  <tr>
-    <td align='center'>Desing</td>
+    <th align='center'>Desing</th>
     <td align='center'>Photoshop</td>
   </tr>
    <tr>
-    <td align='center'>Others</td>
+    <th align='center'>Others</th>
     <td align='center'>Git</td>
   </tr>
  </table>
