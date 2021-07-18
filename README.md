@@ -92,7 +92,7 @@ https://github.com/denvercoder1/github-readme-streak-stats
 ## Social
 <table align='center'>
   <tr>
-    <td align='center'><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="img/social/linkedin-icon.png" alt="linkedin" width=60></a></td>
+    <td align='center'><a href="https://www.linkedin.com/in/pedro-yanez/"><img src="img/social/linkedin-icon.png" alt="linkedin" width=60></a></td>
     <td align='center'><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="img/social/youtube-iconv2.png" alt="youtube" width=60></a></td>
     <td align='center'><a href="https://twitter.com/wotanCode"><img src="img/social/twitter-icon.png" alt="twitter" width=60></a></td>
     <td align='center'><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="img/social/facebook-iconv2.png" alt="facebook" width=60></a></td>
