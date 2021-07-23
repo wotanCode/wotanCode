@@ -109,5 +109,4 @@ https://komarev.com/ghpvc/
   <img src='gif/computer2.gif'/>
  </p>
   <img src="https://komarev.com/ghpvc/?username=wotanCode&color=0111C2">
-  0111C2
 </h3>
