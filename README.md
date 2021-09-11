@@ -17,12 +17,17 @@ https://github.com/DenverCoder1/readme-typing-svg
 -->
 
 <h6 align=center>
-<img align=center src='gif/wotanCodebanner.gif' width=750 height=280/>
- </h6>
+  <img align=center src='gif/wotanCodebanner.gif' width=750 height=280/>
+</h6>
 
 <h1 align=center>
-<img aling="center" src="https://readme-typing-svg.herokuapp.com?width=328&lines=Welcome+to+my+profile+(%3E%E2%80%BF%E2%97%A0)%E2%9C%8C"/>
+  <img aling="center" src="https://readme-typing-svg.herokuapp.com?width=328&lines=Welcome+to+my+profile+(%3E%E2%80%BF%E2%97%A0)%E2%9C%8C"/>
 </h1>
+
+<h4 align=center>
+  🔵FullStack Developer: I am an enthusiast of everything related to web development, coding for fun, Star Wars Fan and gamer.🔵
+  🔴Just a boy who has fun doing what i does🔴
+</h4>
 
 <h1>Technologies</h1>
 <table align='center'>
