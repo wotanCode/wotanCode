@@ -17,7 +17,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 -->
 
 <h6 align=center>
-<img align=center src='gif/wotanCodebanner.gif' width=750/>
+<img align=center src='gif/wotanCodebanner.gif' width=750 height=280/>
  </h6>
 
 <h1 align=center>
