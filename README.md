@@ -111,7 +111,7 @@ https://github.com/denvercoder1/github-readme-streak-stats
 
 <a href="https://www.chess.com/member/caballerodeplata">
   
-![Chess](https://img.shields.io/badge/-Chess-0A1A2F?&style=for-the-badge&logo=Lichess)
+![Chess](https://img.shields.io/badge/-Chess-0A1A2F?&style=for-the-badge&logo=Lichess&logoColor=green)
 </a>
 
 ## ⚪Connect with me:
