@@ -109,7 +109,7 @@ https://github.com/denvercoder1/github-readme-streak-stats
 ![Steam](https://img.shields.io/badge/-Steam-0A1A2F?&style=for-the-badge&logo=Steam)
 </a>
 
-<a href="https://steamcommunity.com/id/idzenc">
+<a href="https://www.chess.com/member/caballerodeplata">
   
 ![Chess](https://img.shields.io/badge/-Chess-0A1A2F?&style=for-the-badge&logo=Lichess)
 </a>
