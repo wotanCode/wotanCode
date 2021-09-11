@@ -29,50 +29,81 @@ https://github.com/DenverCoder1/readme-typing-svg
   🔴Just a boy who has fun doing what i does🔴
 </h4>
 
-<h1>Technologies</h1>
-<table align='center'>
-  <tr>
-    <th align='center'>Frontend</th>
-    <td align='center'>HTML5</td>
-    <td align='center'>CSS3</td>
-    <td align='center'>Javascript</td>
-    <td align='center'>Bootstrap</td>
-    <td align='center'>React</td>
-  </tr>
-  <tr>
-    <th align='center'>Backend</th>
-    <td align='center'>Python</td>
-  </tr>
-  <tr>
-    <th align='center'>Database</th>
-    <td align='center'>MySQL</td>
-  </tr>
-  <tr>
-    <th align='center'>IDE's</th>
-    <td align='center'>Visual Studio Code</td>
-  </tr>
- <tr>
-    <th align='center'>Desing</th>
-    <td align='center'>Photoshop</td>
-  </tr>
-   <tr>
-    <th align='center'>Others</th>
-    <td align='center'>Git</td>
-  </tr>
- </table>
+<h2>Technologies</h2>
 
-<h1>Statistics</h1>
+<table align='center'>
+    <tr>
+      <td>
+        <h3>🟢WEB</h3>
+        <ul>
+          <li>
+            <h5>
+              Programming languages: Javascript, Python
+            </h5>
+          </li>
+          <li>
+            <h5>
+              Development Framework: ReactJs
+            </h5>
+          </li>
+          <li>
+            <h5>
+              Frontend: HTML5, CSS3, Bootstrap, React-Bootstrap.
+            </h5>
+          </li>
+          <li>
+            <h5>
+              Backend: SQL, Flask-SQLAlchemy
+            </h5>
+          </li>
+          <li>
+            <h5>
+              Database: MySQL
+            </h5>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <h3>🟢Others</h3>
+        <ul>
+          <li>
+            <h5>
+              VCS: Git, Github.
+            </h5>
+          </li>
+          <li>
+            <h5>
+              IDE: Visual Studio
+            </h5>
+          </li>
+          <li>
+            <h5>
+              Desing: Photoshop
+            </h5>
+          </li>
+          <li>
+            <h5>
+              Agile software development: Scrum, Kanban
+            </h5>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+<h2>Statistics</h2>
 <!--
 Repositorio para la Card de los lenguajes utilizados
 https://github.com/anuraghazra/github-readme-stats
 ![wotanCode GitHub stats](https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&hide_border=true&layout=compact&theme=dark)]
 -->
+
  <table align='center'>
   <tr>
     <!--<td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>-->
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&hide_border=true&layout=compact&theme=dark"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=dark"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=react"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=react"/></td>
   </tr>
  </table>
  
