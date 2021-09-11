@@ -29,67 +29,46 @@ https://github.com/DenverCoder1/readme-typing-svg
   🔴Just a boy who has fun doing what i does🔴
 </h4>
 
+
 <h2>Technologies</h2>
 
-<table align='center'>
-    <tr>
-      <td>
-        <h3>🟢WEB</h3>
-        <ul>
-          <li>
-            <h5>
-              Programming languages: Javascript, Python
-            </h5>
-          </li>
-          <li>
-            <h5>
-              Development Framework: ReactJs
-            </h5>
-          </li>
-          <li>
-            <h5>
-              Frontend: HTML5, CSS3, Bootstrap, React-Bootstrap.
-            </h5>
-          </li>
-          <li>
-            <h5>
-              Backend: SQL, Flask-SQLAlchemy
-            </h5>
-          </li>
-          <li>
-            <h5>
-              Database: MySQL
-            </h5>
-          </li>
-        </ul>
-      </td>
-      <td>
-        <h3>🟢Others</h3>
-        <ul>
-          <li>
-            <h5>
-              VCS: Git, Github.
-            </h5>
-          </li>
-          <li>
-            <h5>
-              IDE: Visual Studio
-            </h5>
-          </li>
-          <li>
-            <h5>
-              Desing: Photoshop
-            </h5>
-          </li>
-          <li>
-            <h5>
-              Agile software development: Scrum, Kanban
-            </h5>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<h3>🟢WEB</h3>
+
+- Programming languages:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  
+- Development Framework:
+  ![ReactJs](https://img.shields.io/badge/-ReactJs-0A1A2F?style=flat&logo=react)
+
+- Frontend:
+  ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=Bootstrap)
+  ![react-Bootstrap](https://img.shields.io/badge/-ReactBootstrap-0A1A2F?style=flat&logo=ReactBootstrap)
+  
+- Backend:
+  ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
+  ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
+
+
+  
+- Database:
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  
+- IDE:
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+- VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+
+- Agile software development:
+  ![Scrum](https://img.shields.io/badge/-Scrum-0A1A2F?style=flat&logo=Scrum)
+  ![Kanban](https://img.shields.io/badge/-Kanban-0A1A2F?style=flat&logo=Kanban)
+  
+- Desing:
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
 
 <h2>Statistics</h2>
 <!--
