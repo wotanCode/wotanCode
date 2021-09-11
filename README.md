@@ -6,7 +6,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-  Tell me Wotan</h1>
+  I am Wotan</h1>
 
 <!--
 Mensaje typing
