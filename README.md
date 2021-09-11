@@ -30,9 +30,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 </h4>
 
 
-<h2>Technologies</h2>
-
-<h3>🟢WEB</h3>
+<h2>🟠Technologies</h2>
 
 - Programming languages:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
@@ -50,8 +48,6 @@ https://github.com/DenverCoder1/readme-typing-svg
 - Backend:
   ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
   ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
-
-
   
 - Database:
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
@@ -70,7 +66,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 - Desing:
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
 
-<h2>Statistics</h2>
+<h2>🟢Statistics</h2>
 <!--
 Repositorio para la Card de los lenguajes utilizados
 https://github.com/anuraghazra/github-readme-stats
@@ -106,33 +102,38 @@ https://github.com/denvercoder1/github-readme-streak-stats
 </h3>
 
 
-## Wanna play?
-<table align='center'>
-  <tr>
-    <!--<td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>-->
-    <td align='center'><a href="https://steamcommunity.com/id/idzenc"><img src="img/wannaplay/steam-icon.png" alt="Steam" width=60></a></td>
-    <td align='center'><a href="https://www.chess.com/member/caballerodeplata"><img src="img/wannaplay/chess-icon.png" alt="Chess" width=60></a></td>
-  </tr>
-</table>
+## 🟣Wanna play?
 
-## Social
-<table align='center'>
-  <tr>
-    <td align='center'><a href="https://www.linkedin.com/in/pedro-yanez/"><img src="img/social/linkedin-icon.png" alt="linkedin" width=60></a></td>
-    <td align='center'><a href="https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g"><img src="img/social/youtube-iconv2.png" alt="youtube" width=60></a></td>
-    <td align='center'><a href="https://twitter.com/wotanCode"><img src="img/social/twitter-icon.png" alt="twitter" width=60></a></td>
-    <td align='center'><a href="https://www.facebook.com/pedro.hackdeluz/"><img src="img/social/facebook-iconv2.png" alt="facebook" width=60></a></td>
-  </tr>
- </table>
+<a href="https://steamcommunity.com/id/idzenc" target="_blank">
+  
+![Steam](https://img.shields.io/badge/-Steam-0A1A2F?&style=for-the-badge&logo=Steam)
+</a>
+
+<a href="https://steamcommunity.com/id/idzenc">
+  
+![Chess](https://img.shields.io/badge/-Chess-0A1A2F?&style=for-the-badge&logo=Lichess)
+</a>
+
+## ⚪Connect with me:
+
+<a href="https://www.twitter.com/wotanCode" target="_blank">
+  
+![Twitter Follow](https://img.shields.io/twitter/follow/wotanCode?label=Follow%20me%20on%20Twitter%20&logo=twitter&style=for-the-badge)
+</a>
+</br>
+<a href="https://www.linkedin.com/in/pedro-yanez/">
+![linkedin](https://img.shields.io/badge/-linkedin-0A1A2F?&style=for-the-badge&logo=linkedin&logoColor=00d8fd)
+</a>
  
 <!--
 Repositorio original de la funcion de visitas
 https://komarev.com/ghpvc/
 ![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=2685BF)
 -->
+##
 <h3 align='center'>
  <p>
   <img src='gif/computer2.gif'/>
  </p>
-  <img src="https://komarev.com/ghpvc/?username=wotanCode&color=0111C2">
+  <img src="https://komarev.com/ghpvc/?username=wotanCode&label=Profile%20views&color=0111C2&style=flat" alt="wotanCode" />
 </h3>
