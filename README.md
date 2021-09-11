@@ -1,17 +1,28 @@
-<img align='left' src='gif/computer1.gif' width='10%'/> 
-
-<h1 align="left">Hello World!</h1>
-
-<h3 align="left">
-  Welcome to wotanCode's profile!
-</h3>
+<!--<img align='left' src='gif/computer1.gif' width='10%'/> 
+-->
+<h1 align=center>
+  Hello There!
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+  Tell me Wotan</h1>
 
 <!--
 Mensaje typing
 https://github.com/DenverCoder1/readme-typing-svg
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=120&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!)
--->
+
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=120&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!"/>
+-->
+
+<h6 align=center>
+<img align=center src='gif/wotanCodebanner.gif' width=450px/>
+ </h6>
+
+<h1 align=center>
+<img aling="center" src="https://readme-typing-svg.herokuapp.com?width=328&lines=Welcome+to+my+profile+(%3E%E2%80%BF%E2%97%A0)%E2%9C%8C"/>
+</h1>
 
 <h1>Technologies</h1>
 <table align='center'>
