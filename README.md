@@ -59,9 +59,11 @@ https://github.com/DenverCoder1/readme-typing-svg
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 
+<!--
 - Agile software development:
   ![Scrum](https://img.shields.io/badge/-Scrum-0A1A2F?style=flat&logo=Scrum)
   ![Kanban](https://img.shields.io/badge/-Kanban-0A1A2F?style=flat&logo=Kanban)
+-->
   
 - Desing:
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
