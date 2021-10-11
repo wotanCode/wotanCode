@@ -58,6 +58,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 - VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 
 <!--
 - Agile software development:
