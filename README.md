@@ -37,7 +37,7 @@ https://github.com/DenverCoder1/readme-typing-svg
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   
 - Development Framework:
-  ![ReactJs](https://img.shields.io/badge/-ReactJs-0A1A2F?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
 
 - Frontend:
   ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5)
