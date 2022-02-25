@@ -34,6 +34,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 - Programming languages:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   
 - Development Framework:
@@ -46,8 +47,8 @@ https://github.com/DenverCoder1/readme-typing-svg
   ![react-Bootstrap](https://img.shields.io/badge/-ReactBootstrap-0A1A2F?style=flat&logo=ReactBootstrap)
   
 - Backend:
-  ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
   ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
+  <!--![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)-->
   
 - Database:
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
@@ -58,6 +59,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 - VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-0A1A2F?style=flat&logo=Gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 
 <!--
