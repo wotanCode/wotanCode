@@ -44,7 +44,7 @@ https://github.com/DenverCoder1/readme-typing-svg
   ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=Bootstrap)
-  ![react-Bootstrap](https://img.shields.io/badge/-ReactBootstrap-0A1A2F?style=flat&logo=ReactBootstrap)
+  <!--![react-Bootstrap](https://img.shields.io/badge/-ReactBootstrap-0A1A2F?style=flat&logo=ReactBootstrap)-->
   
 - Backend:
   ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
