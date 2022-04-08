@@ -6,7 +6,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-  I am Wotan</h1>
+  </h1>
 
 <!--
 Mensaje typing
@@ -21,11 +21,10 @@ https://github.com/DenverCoder1/readme-typing-svg
 </h6>
 
 <h1 align=center>
-  <img aling="center" src="https://readme-typing-svg.herokuapp.com?width=328&lines=Welcome+to+my+profile+(%3E%E2%80%BF%E2%97%A0)%E2%9C%8C"/>
+  <img aling="center" src="https://readme-typing-svg.herokuapp.com?lines=(%3E%E2%80%BF%E2%97%A0)+Welcome+to+my+profile%E2%9C%8C%E2%9C%8C"/>
 </h1>
-
 <h4 align=center>
-  🔵FullStack Developer: I am an enthusiast of everything related to web development, coding for fun, Star Wars Fan and gamer.🔵
+  🔵Developer. I'm an enthusiast of everything related to development and programming, coding for fun, Star Wars Fan and gamer.🔵
   🔴Just a boy who has fun doing what i does🔴
 </h4>
 
