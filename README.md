@@ -28,7 +28,6 @@ https://github.com/DenverCoder1/readme-typing-svg
   🔴Just a boy who has fun doing what i does🔴
 </h4>
 
-
 <h2>🟠Technologies</h2>
 
 - Programming languages:
@@ -39,13 +38,12 @@ https://github.com/DenverCoder1/readme-typing-svg
 - Testing:
   ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest)
 
-  
 - Development Framework:
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
 
 - Backend:
   ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
-  
+
 - Database:
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
 
@@ -86,7 +84,7 @@ https://github.com/anuraghazra/github-readme-stats
     <td><img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=react"/></td>
   </tr>
  </table>
- 
+
 <!--
 Repositorio para grafico de actividad
 https://github.com/Ashutosh00710/github-readme-activity-graph
@@ -109,26 +107,26 @@ https://github.com/denvercoder1/github-readme-streak-stats
 ## 🟣Wanna play?
 
 <a href="https://steamcommunity.com/id/idzenc" target="_blank">
-  
+
 ![Steam](https://img.shields.io/badge/-Steam-0A1A2F?&style=for-the-badge&logo=Steam)
 </a>
 
 <a href="https://www.chess.com/member/caballerodeplata">
-  
+
 ![Chess](https://img.shields.io/badge/-Chess-0A1A2F?&style=for-the-badge&logo=Lichess&logoColor=green)
 </a>
 
 ## ⚪Connect with me:
 
 <a href="https://www.twitter.com/wotanCode" target="_blank">
-  
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/wotanCode?label=Follow%20me%20on%20Twitter%20&logo=twitter&style=for-the-badge)
 </a>
 </br>
 <a href="https://www.linkedin.com/in/pedro-yanez/">
 ![linkedin](https://img.shields.io/badge/-linkedin-0A1A2F?&style=for-the-badge&logo=linkedin&logoColor=00d8fd)
 </a>
- 
+
 <!--
 Repositorio original de la funcion de visitas
 https://komarev.com/ghpvc/
