@@ -35,25 +35,19 @@ https://github.com/DenverCoder1/readme-typing-svg
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+
+- Testing:
+  ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest)
+
   
 - Development Framework:
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
 
-- Frontend:
-  ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=Bootstrap)
-  <!--![react-Bootstrap](https://img.shields.io/badge/-ReactBootstrap-0A1A2F?style=flat&logo=ReactBootstrap)-->
-  
 - Backend:
   ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
-  <!--![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)-->
   
 - Database:
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  
-- IDE:
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 - VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
@@ -61,14 +55,22 @@ https://github.com/DenverCoder1/readme-typing-svg
   ![GitLab](https://img.shields.io/badge/-GitLab-0A1A2F?style=flat&logo=Gitlab)
   ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
 
-<!--
-- Agile software development:
-  ![Scrum](https://img.shields.io/badge/-Scrum-0A1A2F?style=flat&logo=Scrum)
-  ![Kanban](https://img.shields.io/badge/-Kanban-0A1A2F?style=flat&logo=Kanban)
--->
-  
+<h3>🔸Others skills</h3>
+
+- Frontend:
+  ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
+
+  - Frameworks:
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=Bootstrap)
+  ![Mui](https://img.shields.io/badge/-Mui-0A1A2F?style=flat&logo=Mui)
+
+- IDE:
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 - Desing:
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=Figma)
 
 <h2>🟢Statistics</h2>
 <!--
@@ -80,7 +82,6 @@ https://github.com/anuraghazra/github-readme-stats
 
  <table align='center'>
   <tr>
-    <!--<td><a href="https://www.linkedin.com/in/pedro-yanez-a1a9b773/"><img src="svg/discord-icon.svg" alt="Discord"></a></th>-->
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=react"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=react"/></td>
   </tr>
@@ -104,7 +105,6 @@ https://github.com/denvercoder1/github-readme-streak-stats
 <h3 align='center'>
   <img align='center' src="http://github-readme-streak-stats.herokuapp.com?user=wotanCode&theme=dark&hide_border=true&ring=59BFFF&fire=FFFFFF&stroke=59BFFF&currStreakLabel=FFFFFF&sideNums=59BFFF&sideLabels=59BFFF&currStreakNum=FFFFFF&dates=00DD2BEE"/>
 </h3>
-
 
 ## 🟣Wanna play?
 
@@ -134,6 +134,7 @@ Repositorio original de la funcion de visitas
 https://komarev.com/ghpvc/
 ![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=2685BF)
 -->
+
 ##
 <h3 align='center'>
  <p>
