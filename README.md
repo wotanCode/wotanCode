@@ -30,21 +30,21 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 <h2>🟠Technologies</h2>
 
-- Programming languages:
+- Programming languages: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
 
-- Testing:
+- Testing: &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest)
 
-- Development Framework:
+- Development Framework: &nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
 
-- Backend:
+- Backend: &nbsp;
   ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
 
-- Database:
+- Database: &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
 
 - VCS: &nbsp;
@@ -55,18 +55,21 @@ https://github.com/DenverCoder1/readme-typing-svg
 
 <h3>🔸Others skills</h3>
 
-- Frontend:
+- Frontend: &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
 
-  - Frameworks:
+  - Frameworks: &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=Bootstrap)
   ![Mui](https://img.shields.io/badge/-Mui-0A1A2F?style=flat&logo=Mui)
 
-- IDE:
+- IDE: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- Desing:
+- Agility: &nbsp;
+  ![jira](https://img.shields.io/badge/-jira-0A1A2F?style=flat&logo=jira)
+
+- Desing: &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=Figma)
 
