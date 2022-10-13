@@ -121,14 +121,18 @@ https://github.com/denvercoder1/github-readme-streak-stats
 
 ## ⚪Connect with me:
 
+<a href="https://www.linkedin.com/in/pedro-yanez/">
+
+![linkedin](https://img.shields.io/badge/-linkedin-0A1A2F?&style=for-the-badge&logo=linkedin&logoColor=00d8fd)
+</a>
+
+<!--
+</br>
 <a href="https://www.twitter.com/wotanCode" target="_blank">
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wotanCode?label=Follow%20me%20on%20Twitter%20&logo=twitter&style=for-the-badge)
 </a>
-</br>
-<a href="https://www.linkedin.com/in/pedro-yanez/">
-![linkedin](https://img.shields.io/badge/-linkedin-0A1A2F?&style=for-the-badge&logo=linkedin&logoColor=00d8fd)
-</a>
+-->
 
 <!--
 Repositorio original de la funcion de visitas
