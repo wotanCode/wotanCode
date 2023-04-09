@@ -31,6 +31,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 <h2>🟠Technologies</h2>
 
 - Programming languages: &nbsp;
+- ![C](https://img.shields.io/badge/-C-0A1A2F?style=flat&logo=C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
