@@ -1,5 +1,4 @@
-<!--<img align='left' src='gif/computer1.gif' width='10%'/> 
--->
+<!-- Hello there message -->
 <h1 align=center>
   📚Hello There!📚
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
@@ -8,33 +7,31 @@
          width="45" />
   </h1>
 
-<!--
-Mensaje typing
-https://github.com/DenverCoder1/readme-typing-svg
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=120&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!)
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&multiline=true&height=120&lines=wotanCode%3A+Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit...;knock+knock+!!!"/>
--->
-
+<!-- Banner -->
 <h6 align=center>
   <img align=center src='gif/wotanCodebanner.gif' width=750 height=280/>
 </h6>
 
+<!-- Mensaje dinamico de bienvenida -->
 <h1 align=center>
-  <img aling="center" src="https://readme-typing-svg.herokuapp.com?lines=(%3E%E2%80%BF%E2%97%A0)+Welcome+to+my+profile%E2%9C%8C%E2%9C%8C"/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?lines=(%3E%E2%80%BF%E2%97%A0)+Welcome+to+my+profile%E2%9C%8C%E2%9C%8C"/>
 </h1>
-<h4 align=center>
-  🔵Developer. I'm an enthusiast of everything related to development and programming, coding for fun, Star Wars Fan and gamer.🔵
-  🔴Just a boy who has fun doing what i does🔴
-</h4>
 
+<!-- Descripción-->
+<h4 align=center>
+  🔵Developer. I'm an enthusiast of everything related to development and programming, coding for fun.🔵<br/>
+  🔴Just a boy who has fun doing what I do🔴
+</h4>
+<br/>
+
+<!-- Seccion de tecnologias -->
 <h2>🟠Technologies</h2>
 
 - Programming languages: &nbsp;
-- ![C](https://img.shields.io/badge/-C-0A1A2F?style=flat&logo=C)
+  ![C](https://img.shields.io/badge/-C-0A1A2F?style=flat&logo=C)
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
-  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
 
 - Testing: &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest)
@@ -70,10 +67,11 @@ https://github.com/DenverCoder1/readme-typing-svg
 - Agility: &nbsp;
   ![jira](https://img.shields.io/badge/-jira-0A1A2F?style=flat&logo=jira)
 
-- Desing: &nbsp;
+- Design: &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=Figma)
 
+<!-- Seccion de estadisticas -->
 <h2>🟢Statistics</h2>
 <!--
 Repositorio para la Card de los lenguajes utilizados
@@ -127,13 +125,10 @@ https://github.com/denvercoder1/github-readme-streak-stats
 ![linkedin](https://img.shields.io/badge/-linkedin-0A1A2F?&style=for-the-badge&logo=linkedin&logoColor=00d8fd)
 </a>
 
-<!--
-</br>
-<a href="https://www.twitter.com/wotanCode" target="_blank">
+<a href="https://www.twitter.com/pedroelhumano" target="_blank">
 
-![Twitter Follow](https://img.shields.io/twitter/follow/wotanCode?label=Follow%20me%20on%20Twitter%20&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/pedroelhumano?label=Follow%20me%20on%20Twitter%20&logo=twitter&style=for-the-badge)
 </a>
--->
 
 <!--
 Repositorio original de la funcion de visitas
@@ -141,10 +136,10 @@ https://komarev.com/ghpvc/
 ![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=2685BF)
 -->
 
-##
+<!-- Seccion de cuantas visitas -->
 <h3 align='center'>
  <p>
-  <img src='gif/computer2.gif'/>
+  <img src='gif/computer1.gif'/>
  </p>
-  <img src="https://komarev.com/ghpvc/?username=wotanCode&label=Profile%20views&color=0111C2&style=flat" alt="wotanCode" />
+  <img src="https://komarev.com/ghpvc/?username=wotanCode&label=Profile%20views&color=0111C2&style=flat" alt="Pedro Yanez twitter" />
 </h3>
