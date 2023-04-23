@@ -7,8 +7,8 @@
 </h1>
 
 <!-- Header Banner -->
-<p align=center>
-  <img align=center src='gif/wotanCodebanner.gif' width=750 height=280/>
+<p>
+  <img src='gif/wotanCodebanner.gif' width=750 height=280/>
 </p>
 
   [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@wotancode640)
@@ -28,7 +28,6 @@
 <hr/>
 
 ## 🟠TECNOLOGIAS
-
 
 - Programming languages: &nbsp;
   ![C](https://img.shields.io/badge/-C-0A1A2F?style=flat&logo=C)
@@ -77,7 +76,6 @@
 <!-- Redes sociales -->
 <br>
 <hr/>
-<center>
 
 ## 🟣¡CONECTA CONMIGO EN MIS REDES!🟣
 
@@ -85,21 +83,26 @@
   [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.twitter.com/pedroelhumano)
-</center>
 
 <!-- Estadisticas -->
 <br>
 <hr/>
 
-<center><h2>🟢ESTADÍSTICAS DE DESARROLLO🟢</h2></center>
+<h2>🟢ESTADÍSTICAS DE DESARROLLO🟢</h2>
 
-<center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=react"/>
-</center>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=react"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=react"/>
+    </td>
+  </tr>
+</table>
 
-<center>
-  <img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=react"/>
-</center>
 
 <!-- Jugamos? -->
 <br>
