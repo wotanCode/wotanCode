@@ -115,4 +115,4 @@
 <!-- Visitas al perfil-->
 <hr/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=blueviolet&label=Total%20de%20visitas)
+![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=blueviolet&label=Total%20de%20visitas%20al%20perfil)
