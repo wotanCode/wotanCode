@@ -111,5 +111,8 @@
 ###### ⚪¿Una partida?⚪
 [![STEAM](https://img.shields.io/badge/-STEAM-0A1A2F?style=flat&logo=steam)](https://steamcommunity.com/id/idzenc)
 [![CHESS](https://img.shields.io/badge/-CHESS-0A1A2F?style=flat&logo=Lichess&logoColor=green)](https://www.chess.com/member/caballerodeplata)
+
 <!-- Visitas al perfil-->
+<hr/>
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=blueviolet&label=Total%20de%20visitas)
