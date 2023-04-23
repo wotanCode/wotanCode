@@ -1,14 +1,14 @@
 <!-- Titulo  -->
-<h1>📚¡Hola! Mi nombre es Pedro Yanez y bienvenido a mi perfil
-<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
+<h1>¡Hey! Mi nombre es Pedro Yanez
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+          alt="Waving hand animated gif"
+          height="45"
+          width="45" />
 </h1>
 
 <!-- Header Banner -->
 <p>
-  <img src='gif/wotanCodebanner.gif' width=750 height=280/>
+  <img src='gif/wotanCodebanner.gif' width=750% height=280/>
 </p>
 
   [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@wotancode640)
@@ -27,51 +27,85 @@
 <br>
 <hr/>
 
-## 🟠TECNOLOGIAS
+## 🟠STACK TECNOLÓGICO🟠
 
-- Programming languages: &nbsp;
-  ![C](https://img.shields.io/badge/-C-0A1A2F?style=flat&logo=C)
-  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript)
+<table align="center">
+  <tr>
+    <td>LENGUAJES DE PROGRAMACIÓN</td>
+    <td>
+      <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=101010&logo=C" alt="C logo">
+      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=101010&logo=Cplusplus" alt="C++ logo">
+      <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=101010&logo=python" alt="Python logo">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=101010&logo=javascript" alt="JavaScript logo">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=101010&logo=typescript" alt="TypeScript logo">
+      <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=101010&logo=java" alt="Java Logo">
+    </td>
+  </tr>
+  <tr>
+    <td>FRAMEWORKS DE DESARROLLO</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&labelColor=101010&logo=Next.js" alt="Next.js logo">
+    </td>
+  </tr>
+  <tr>
+    <td>TECNOLÓGIAS WEB</td>
+    <td>
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=101010&logo=html5" alt="HTML5 logo">
+      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=101010&logo=CSS3" alt="CSS3 logo">
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=101010&logo=react" alt="React logo">
+      <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=101010&logo=Bootstrap" alt="Bootstrap logo">
+      <img src="https://img.shields.io/badge/-Mui-0081CB?style=for-the-badge&labelColor=101010&logo=Mui" alt="Mui logo">
+    </td>
+  </tr>
+  <tr>
+    <td>TESTING</td>
+    <td>
+      <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=101010&logo=Jest" alt="Jest logo">
+      <img src="https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&labelColor=101010&logo=testingLibrary" alt="Testing Library logo">
+    </td>
+  </tr>
+<tr>
+  <td>BACKEND</td>
+  <td>
+    <img src="https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=for-the-badge&labelColor=101010&logo=Flask&logoColor=00d8fd" alt="Flask-SQLAlchemy logo">
+  </td>
+</tr>
+<tr>
+  <td>BASES DE DATOS</td>
+  <td>
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=101010&logo=mysql&logoColor=00d8fd" alt="MySQL logo">
+  </td>
+</tr>
+<tr>
+  <td>VCS</td>
+  <td>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=101010&logo=git" alt="Git logo">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=101010&logo=github" alt="GitHub logo">
+    <img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&labelColor=101010&logo=Gitlab" alt="GitLab logo">
+    <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&labelColor=101010&logo=markdown" alt="Markdown logo">
+  </td>
+</tr>
+<tr>
+  <td>IDE</td>
+  <td>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=101010&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo">
+  </td>
+</tr>
+<tr>
+  <td>AGILIDAD</td>
+  <td>
+    <img src="https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&labelColor=101010&logo=jira" alt="jira logo">
+  </td>
+</tr>
+<tr>
+  <td>DISEÑO</td>
+  <td>
+    <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&labelColor=101010&logo=adobephotoshop" alt="Photoshop logo">
+    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=101010&logo=Figma" alt="Figma logo">
+  </td>
+</tr>
 
-- Testing: &nbsp;
-  ![Jest](https://img.shields.io/badge/-Jest-0A1A2F?style=flat&logo=Jest)
-
-- Development Framework: &nbsp;
-  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-
-- Backend: &nbsp;
-  ![Flask-SQLAlchemy](https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=flat&logo=Flask&logoColor=00d8fd)
-
-- Database: &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-
-- VCS: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-0A1A2F?style=flat&logo=Gitlab)
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)
-
-<h3>🔸Others skills</h3>
-
-- Frontend: &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=CSS3)
-
-  - Frameworks: &nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=Bootstrap)
-  ![Mui](https://img.shields.io/badge/-Mui-0A1A2F?style=flat&logo=Mui)
-
-- IDE: &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-- Agility: &nbsp;
-  ![jira](https://img.shields.io/badge/-jira-0A1A2F?style=flat&logo=jira)
-
-- Design: &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobephotoshop)
-  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=Figma)
+</table>
 
 <!-- Redes sociales -->
 <br>
