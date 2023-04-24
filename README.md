@@ -127,12 +127,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=react"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=github_dark"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=react"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=github_dark"/>
     </td>
   </tr>
 </table>
@@ -143,10 +143,10 @@
 <hr/>
 
 ###### ⚪¿Una partida?⚪
-[![STEAM](https://img.shields.io/badge/-STEAM-0A1A2F?style=flat&logo=steam)](https://steamcommunity.com/id/idzenc)
-[![CHESS](https://img.shields.io/badge/-CHESS-0A1A2F?style=flat&logo=Lichess&logoColor=green)](https://www.chess.com/member/caballerodeplata)
+[![STEAM](https://img.shields.io/badge/-STEAM-171A21?style=flat-square&logo=steam&labelColor=101010)](https://steamcommunity.com/id/idzenc)
+[![CHESS](https://img.shields.io/badge/-CHESS.COM-6C9E3F?style=flat-square&logo=Lichess&labelColor=101010)](https://www.chess.com/member/caballerodeplata)
 
 <!-- Visitas al perfil-->
 <hr/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&color=blueviolet&label=Total%20de%20visitas%20al%20perfil)
+![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&style=for-the-badge&color=red&label=Total%20de%20visitas%20al%20perfil)
