@@ -15,6 +15,8 @@
   [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white&labelColor=101010)](https://www.twitter.com/pedroelhumano)
+  ![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)
+  ![GitHub Followers](https://img.shields.io/github/stars/wotanCode?style=social)
 <br>
 
 <!-- Descripción-->
@@ -104,7 +106,6 @@
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=101010&logo=Figma" alt="Figma logo">
   </td>
 </tr>
-
 </table>
 
 <!-- Redes sociales -->
