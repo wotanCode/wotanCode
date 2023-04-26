@@ -8,7 +8,7 @@
 
 <!-- Header Banner -->
 <p>
-  <img src='gif/wotanCodebanner.gif' width=750% height=280/>
+  <img src='img/banner.png' width=100%/>
 </p>
 
   [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
