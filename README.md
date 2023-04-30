@@ -7,9 +7,7 @@
 </h1>
 
 <!-- Header Banner -->
-<p>
-  <img src='img/banner.png' width=100%/>
-</p>
+<img src='img/banner.png' />
 
   [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
   [![GitHub Followers](https://img.shields.io/github/stars/wotanCode?style=social)](https://github.com/wotanCode)
