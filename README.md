@@ -6,9 +6,6 @@
           width="45" />
 </h1>
 
-<!-- Header Banner -->
-<img src='img/banner.png' />
-
   [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
   [![GitHub Followers](https://img.shields.io/github/stars/wotanCode?style=social)](https://github.com/wotanCode)
   [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@wotancode640)
@@ -19,8 +16,8 @@
 
 <!-- Descripción-->
 <h4 align="center">
-  🔴Desarrollador Full Stack🔴<br>
-  🔵Programo por diversión, toco la guitarra y juego ajedrez en mi tiempo libre. Además, practico artes marciales y soy un soñador de corazón.🔵
+  🔴Desarrollador de Software🔴<br>
+  🔵Jedi Master🔵
 </h4>
 
 <!-- Seccion de tecnologias -->
