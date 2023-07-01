@@ -20,11 +20,14 @@
   🔵Jedi Master🔵
 </h4>
 
-<!-- Seccion de tecnologias -->
-<br>
 <hr/>
 
-## 🟠STACK TECNOLÓGICO🟠
+<details>
+  <summary>Detalles del perfil</summary>
+  <!-- Seccion de tecnologias -->
+  <br>
+  
+  ## 🟠STACK TECNOLÓGICO🟠
 
 <table align="center">
   <tr>
@@ -122,9 +125,11 @@
   </tr>
 </table>
 
+</details>
+
 <!-- Redes sociales -->
-<br>
-<hr/>
+<details>
+  <summary>Conecta conmigo</summary>
 
 ## 🟣¡CONECTA CONMIGO EN MIS REDES!🟣
 
@@ -132,15 +137,16 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.twitter.com/pedroelhumano)
+</details>
 
-
+<details>
+  <summary>Juguemos</summary>
 <!-- Jugamos? -->
-<br>
-<hr/>
 
 ###### ⚪¿Una partida?⚪
 [![STEAM](https://img.shields.io/badge/-STEAM-171A21?style=flat-square&logo=steam&labelColor=101010)](https://steamcommunity.com/id/idzenc)
 [![CHESS](https://img.shields.io/badge/-CHESS.COM-6C9E3F?style=flat-square&logo=Lichess&labelColor=101010)](https://www.chess.com/member/caballerodeplata)
+</details>
 
 <!-- Visitas al perfil-->
 <hr/>
