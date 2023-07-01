@@ -23,7 +23,7 @@
 <hr/>
 
 <details>
-  <summary>Detalles tecnologicos</summary>
+  <summary>Detalles tecnológicos</summary>
   <!-- Seccion de tecnologias -->
   <br>
   
