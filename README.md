@@ -143,7 +143,7 @@
   <summary>Play</summary>
 <!-- Jugamos? -->
 
-###### ⚪¿wanna play?⚪
+###### ⚪wanna play?⚪
 [![STEAM](https://img.shields.io/badge/-STEAM-171A21?style=flat-square&logo=steam&labelColor=101010)](https://steamcommunity.com/id/idzenc)
 [![CHESS](https://img.shields.io/badge/-CHESS.COM-6C9E3F?style=flat-square&logo=Lichess&labelColor=101010)](https://www.chess.com/member/caballerodeplata)
 </details>
