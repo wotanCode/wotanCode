@@ -151,4 +151,4 @@
 <!-- Visitas al perfil-->
 <hr/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&style=for-the-badge&color=red&label=Total%20de%20visitas%20al%20perfil)
+![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&style=for-the-badge&color=red&label=Total%20profile%20views)
