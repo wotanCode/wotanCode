@@ -1,5 +1,5 @@
 <!-- Titulo  -->
-<h1>¡Hey! Mi nombre es Pedro Yanez
+<h1>¡Hey!My name is Pedro Yanez
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
           alt="Waving hand animated gif"
           height="45"
@@ -16,22 +16,22 @@
 
 <!-- Descripción-->
 <h4 align="center">
-  🔴Desarrollador de Software🔴<br>
+  🔴Software Developer🔴<br>
   🔵Jedi Master🔵
 </h4>
 
 <hr/>
 
 <details>
-  <summary>Tecnológia</summary>
+  <summary>Technologies</summary>
   <!-- Seccion de tecnologias -->
   <br>
   
-  ## 🟠STACK TECNOLÓGICO🟠
+  ## 🟠STACK🟠
 
 <table align="center">
   <tr>
-    <td>LENGUAJES DE PROGRAMACIÓN</td>
+    <td>PROGRAMMING LANGUAGES</td>
     <td>
       <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=101010&logo=C" alt="C logo">
       <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=101010&logo=Cplusplus" alt="C++ logo">
@@ -42,13 +42,13 @@
     </td>
   </tr>
   <tr>
-    <td>FRAMEWORKS DE DESARROLLO</td>
+    <td>FRAMEWORKS</td>
     <td>
       <img src="https://img.shields.io/badge/-Next.Js-000000?style=for-the-badge&labelColor=101010&logo=Next.js" alt="Next.js logo">
     </td>
   </tr>
   <tr>
-    <td>TECNOLÓGIAS WEB</td>
+    <td>WEB TECHNOLOGIES</td>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=101010&logo=html5" alt="HTML5 logo">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=101010&logo=CSS3" alt="CSS3 logo">
@@ -71,7 +71,7 @@
   </td>
 </tr>
 <tr>
-  <td>BASES DE DATOS</td>
+  <td>DATABASE</td>
   <td>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=101010&logo=mysql&logoColor=00d8fd" alt="MySQL logo">
   </td>
@@ -92,13 +92,13 @@
   </td>
 </tr>
 <tr>
-  <td>AGILIDAD</td>
+  <td>AGILITY</td>
   <td>
     <img src="https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&labelColor=101010&logo=jira" alt="jira logo">
   </td>
 </tr>
 <tr>
-  <td>DISEÑO</td>
+  <td>DESING</td>
   <td>
     <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&labelColor=101010&logo=adobephotoshop" alt="Photoshop logo">
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=101010&logo=Figma" alt="Figma logo">
@@ -110,7 +110,7 @@
 <br>
 <hr/>
 
-<h2>🟢ESTADÍSTICAS DE DESARROLLO🟢</h2>
+<h2>🟢MY STATS🟢</h2>
 
 <table align="center">
   <tr>
@@ -129,9 +129,9 @@
 
 <!-- Redes sociales -->
 <details>
-  <summary>Conecta conmigo</summary>
+  <summary>Connect with me</summary>
 
-## 🟣¡CONECTA CONMIGO EN MIS REDES!🟣
+## 🟣¡SOCIALMEDIA!🟣
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g)
 [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
@@ -140,10 +140,10 @@
 </details>
 
 <details>
-  <summary>Juguemos</summary>
+  <summary>Play</summary>
 <!-- Jugamos? -->
 
-###### ⚪¿Una partida?⚪
+###### ⚪¿wanna play?⚪
 [![STEAM](https://img.shields.io/badge/-STEAM-171A21?style=flat-square&logo=steam&labelColor=101010)](https://steamcommunity.com/id/idzenc)
 [![CHESS](https://img.shields.io/badge/-CHESS.COM-6C9E3F?style=flat-square&logo=Lichess&labelColor=101010)](https://www.chess.com/member/caballerodeplata)
 </details>
