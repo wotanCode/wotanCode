@@ -5,7 +5,7 @@
   "description": "wotanCode README GitHub profile",
   "main": "index.js",
   "author": "Pedro Yanez",
-  "license": "ISC",
+  "license": "GNU GENERAL PUBLIC LICENSE v3.0",
   "homepage": "https://github.com/wotancode/wotancode#readme",
   "scripts": {
     "update-readme": "node src/index.js",
