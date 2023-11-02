@@ -7,8 +7,8 @@
 </h1>
 
   [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
-  [![GitHub Followers](https://img.shields.io/github/stars/wotanCode?style=social)](https://github.com/wotanCode)
-  [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g)
+  [![GitHub Stars](https://img.shields.io/github/stars/wotanCode?style=social)](https://github.com/wotanCode)
+  [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
   [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white&labelColor=101010)](https://www.twitter.com/pedroelhumano)
@@ -19,6 +19,18 @@
   🔴Software Developer🔴<br>
   🔵Jedi Master🔵
 </h4>
+
+#### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
+
+<a href='https://youtu.be/MT-oznD6K6k' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MT-oznD6K6k/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial [03/03]' />
+</a>
+<a href='https://youtu.be/17agKNqMAfc' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/17agKNqMAfc/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial [02/03]' />
+</a>
+<a href='https://youtu.be/tZrJ-wW3-sE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/tZrJ-wW3-sE/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial [01/03]' />
+</a>
 
 <hr/>
 
@@ -133,7 +145,7 @@
 
 ## 🟣Social networks!🟣
 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.twitter.com/pedroelhumano)
