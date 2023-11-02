@@ -1,0 +1,36 @@
+{
+  "name": "update-readme",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "wotanCode README GitHub profile",
+  "main": "index.js",
+  "author": "Pedro Yanez",
+  "license": "ISC",
+  "homepage": "https://github.com/wotancode/wotancode#readme",
+  "scripts": {
+    "update-readme": "node src/index.js",
+    "lint": "eslint --fix --ext .js .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wotanCode/wotanCode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wotanCode/wotanCode.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "dependencies": {
+    "node-fetch": "3.3.2"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
