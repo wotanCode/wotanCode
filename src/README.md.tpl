@@ -42,6 +42,7 @@
       <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=101010&logo=javascript" alt="JavaScript logo">
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=101010&logo=typescript" alt="TypeScript logo">
       <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=101010&logo=java" alt="Java Logo">
+      <img src="https://img.shields.io/badge/-VisualBasic-512BD4?style=for-the-badge&labelColor=101010&logo=VisualBasic" alt="Visual Basic Logo">
     </td>
   </tr>
   <tr>
@@ -51,10 +52,11 @@
     </td>
   </tr>
   <tr>
-    <td>WEB TECHNOLOGIES</td>
+    <td>WEB TECHNOLOGIES / LIBRAYS</td>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=101010&logo=html5" alt="HTML5 logo">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=101010&logo=CSS3" alt="CSS3 logo">
+      <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=101010&logo=Sass" alt="Sass logo">
       <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=101010&logo=react" alt="React logo">
       <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=101010&logo=Bootstrap" alt="Bootstrap logo">
       <img src="https://img.shields.io/badge/-Mui-0081CB?style=for-the-badge&labelColor=101010&logo=Mui" alt="Mui logo">
@@ -92,6 +94,7 @@
   <td>IDE</td>
   <td>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=101010&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&labelColor=101010&logo=visual-studio-code&logoColor=5C2D91" alt="Visual Studio logo">
   </td>
 </tr>
 <tr>
