@@ -52,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td>WEB TECHNOLOGIES / LIBRAYS</td>
+    <td>WEB TECHNOLOGIES / LIBRARYS</td>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=101010&logo=html5" alt="HTML5 logo">
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=101010&logo=CSS3" alt="CSS3 logo">
@@ -78,6 +78,7 @@
 <tr>
   <td>DATABASE</td>
   <td>
+    <img src="https://img.shields.io/badge/-SQL-0078D4?style=for-the-badge&labelColor=101010&logo=SQL&logoColor=00d8fd" alt="SQL logo">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=101010&logo=mysql&logoColor=00d8fd" alt="MySQL logo">
   </td>
 </tr>
