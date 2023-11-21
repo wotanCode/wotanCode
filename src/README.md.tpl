@@ -79,6 +79,7 @@
   <td>DATABASE</td>
   <td>
     <img src="https://img.shields.io/badge/-SQL-0078D4?style=for-the-badge&labelColor=101010&logo=SQL&logoColor=00d8fd" alt="SQL logo">
+    <img src="https://img.shields.io/badge/-microsoft%20sql%20server-CC2927?style=for-the-badge&labelColor=101010&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL server logo">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=101010&logo=mysql&logoColor=00d8fd" alt="MySQL logo">
   </td>
 </tr>
