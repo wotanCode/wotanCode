@@ -81,6 +81,7 @@
 <tr>
   <td>BACKEND</td>
   <td>
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&labelColor=101010&logo=graphql&logoColor=E10098" alt="GraphQL logo">
     <img src="https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=for-the-badge&labelColor=101010&logo=Flask&logoColor=00d8fd" alt="Flask-SQLAlchemy logo">
   </td>
 </tr>
