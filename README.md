@@ -81,6 +81,7 @@
 <tr>
   <td>BACKEND</td>
   <td>
+    <img src="https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&labelColor=101010&logo=nestjs&logoColor=E0234E" alt="NestJs logo">
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&labelColor=101010&logo=graphql&logoColor=E10098" alt="GraphQL logo">
     <img src="https://img.shields.io/badge/-FlaskSQLAlchemy-0A1A2F?style=for-the-badge&labelColor=101010&logo=Flask&logoColor=00d8fd" alt="Flask-SQLAlchemy logo">
   </td>
@@ -88,9 +89,10 @@
 <tr>
   <td>DATABASE</td>
   <td>
-    <img src="https://img.shields.io/badge/-SQL-0078D4?style=for-the-badge&labelColor=101010&logo=SQL&logoColor=00d8fd" alt="SQL logo">
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=101010&logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo">
     <img src="https://img.shields.io/badge/-microsoft%20sql%20server-CC2927?style=for-the-badge&labelColor=101010&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL server logo">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=101010&logo=mysql&logoColor=00d8fd" alt="MySQL logo">
+    <img src="https://img.shields.io/badge/-SQL-0078D4?style=for-the-badge&labelColor=101010&logo=SQL&logoColor=00d8fd" alt="SQL logo">
   </td>
 </tr>
 <tr>
@@ -106,7 +108,7 @@
   <td>IDE</td>
   <td>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=101010&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo">
-    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&labelColor=101010&logo=visual-studio-code&logoColor=5C2D91" alt="Visual Studio logo">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&labelColor=101010&logo=visualstudio&logoColor=5C2D91" alt="Visual Studio logo">
   </td>
 </tr>
 <tr>
