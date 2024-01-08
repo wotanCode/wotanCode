@@ -46,6 +46,12 @@
     </td>
   </tr>
   <tr>
+    <td>MOBILE</td>
+    <td>
+      <img src="https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&labelColor=101010&logo=react" alt="React logo">
+    </td>
+  </tr>
+  <tr>
     <td>WEB TECHNOLOGIES / LIBRARYS</td>
     <td>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=101010&logo=html5" alt="HTML5 logo">
