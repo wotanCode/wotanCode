@@ -22,14 +22,14 @@
 
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 
+<a href='https://youtu.be/bQaRZDA4Rf0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bQaRZDA4Rf0/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 03' />
+</a>
+<a href='https://youtu.be/OjPhNE--koY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/OjPhNE--koY/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 01' />
+</a>
 <a href='https://youtu.be/MT-oznD6K6k' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MT-oznD6K6k/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial [03/03]' />
-</a>
-<a href='https://youtu.be/17agKNqMAfc' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/17agKNqMAfc/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial [02/03]' />
-</a>
-<a href='https://youtu.be/tZrJ-wW3-sE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/tZrJ-wW3-sE/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial [01/03]' />
 </a>
 
 <hr/>
