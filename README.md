@@ -22,14 +22,14 @@
 
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 
-<a href='https://youtu.be/EoZCBUzhR6w' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/EoZCBUzhR6w/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 05' />
+<a href='https://youtu.be/bQaRZDA4Rf0' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/bQaRZDA4Rf0/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 03' />
 </a>
-<a href='https://youtu.be/AlKteI7z2S8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/AlKteI7z2S8/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 02' />
+<a href='https://youtu.be/gKvrdj1nAlY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gKvrdj1nAlY/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 10' />
 </a>
-<a href='https://youtu.be/RDhL_iIXads' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/RDhL_iIXads/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 04' />
+<a href='https://youtu.be/iL1x_w7VJH8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iL1x_w7VJH8/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 09' />
 </a>
 
 <hr/>
