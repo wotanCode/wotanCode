@@ -22,14 +22,14 @@
 
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 
+<a href='https://youtu.be/JIbg04895LE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/JIbg04895LE/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 06' />
+</a>
 <a href='https://youtu.be/EoZCBUzhR6w' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/EoZCBUzhR6w/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 05' />
 </a>
 <a href='https://youtu.be/RDhL_iIXads' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/RDhL_iIXads/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 04' />
-</a>
-<a href='https://youtu.be/q0C4XHuRNmU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/q0C4XHuRNmU/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 13' />
 </a>
 
 <hr/>
