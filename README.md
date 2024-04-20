@@ -31,6 +31,15 @@
 <a href='https://youtu.be/ZCGw7Q2DRhE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ZCGw7Q2DRhE/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 11' />
 </a>
+<a href='https://youtu.be/gKvrdj1nAlY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/gKvrdj1nAlY/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 10' />
+</a>
+<a href='https://youtu.be/iL1x_w7VJH8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iL1x_w7VJH8/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 09' />
+</a>
+<a href='https://youtu.be/M2FdJ_sWe7U' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/M2FdJ_sWe7U/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 08' />
+</a>
 
 <hr/>
 
