@@ -1,5 +1,5 @@
 <!-- Título -->
-<h1>¡Hola! Mi nombre es Pedro Yanezz
+<h1>¡Hola! Mi nombre es Pedro Yanez
   <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
           alt="Gif animado de mano saludando"
           height="45"
