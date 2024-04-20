@@ -2,7 +2,7 @@
   "name": "update-readme",
   "version": "1.0.0",
   "type": "module",
-  "description": "wotanCode README GitHub profile",
+  "description": "MIT License",
   "main": "index.js",
   "author": "Pedro Yanez",
   "license": "GNU GENERAL PUBLIC LICENSE v3.0",
