@@ -13,7 +13,7 @@ const getLatestYoutubeVideos = (
   { channelId } = { channelId: YOUTUBE_WOTANCODE_CHANNEL_ID }
 ) =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/search?key=${YOUTUBE_API_KEY}&channelId=${channelId}&part=snippet,id&order=date&maxResults=${NUMBER_OF.VIDEOS}`
+    `https://www.googleapis.com/youtube/v3/search?key=${YOUTUBE_API_KEY}&channelId=${channelId}&part=snippet,id&order=date&maxResults=${NUMBER_OF.YOUTUBE_VIDEOS}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items);
