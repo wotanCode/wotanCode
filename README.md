@@ -9,7 +9,7 @@
   [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
   [![GitHub Stars](https://img.shields.io/github/stars/wotanCode?style=social)](https://github.com/wotanCode)
   [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
-  [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
+  [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedroelhumano/)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
   [![X](https://img.shields.io/badge/X-1DA1F2?&logo=X&logoColor=white&labelColor=101010)](https://www.X.com/pedroelhumano)
 <br>
@@ -22,6 +22,9 @@
 
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 
+<a href='https://youtu.be/11qUP9h-cR8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/11qUP9h-cR8/mqdefault.jpg' alt='Combate medieval - Santiago de Chile' />
+</a>
 <a href='https://youtu.be/q0C4XHuRNmU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/q0C4XHuRNmU/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 13' />
 </a>
@@ -36,9 +39,6 @@
 </a>
 <a href='https://youtu.be/iL1x_w7VJH8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iL1x_w7VJH8/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 09' />
-</a>
-<a href='https://youtu.be/M2FdJ_sWe7U' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/M2FdJ_sWe7U/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 08' />
 </a>
 
 <hr/>
@@ -75,7 +75,7 @@
 ## 🟣¡Redes sociales!🟣
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
-[![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedroelhumano/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://www.X.com/pedroelhumano)
 </details>
