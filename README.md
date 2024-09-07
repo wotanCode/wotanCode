@@ -6,12 +6,12 @@
           width="45" />
 </h1>
 
-  [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
-  [![GitHub Stars](https://img.shields.io/github/stars/wotanCode?style=social)](https://github.com/wotanCode)
+  [![GitHub Followers](https://img.shields.io/github/followers/pedroelhumano?style=social)](https://github.com/pedroelhumano)
+  [![GitHub Stars](https://img.shields.io/github/stars/pedroelhumano?style=social)](https://github.com/pedroelhumano)
   [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
   [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedroelhumano/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
-  [![X](https://img.shields.io/badge/X-1DA1F2?&logo=X&logoColor=white&labelColor=101010)](https://www.X.com/pedroelhumano)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/)
+  [![X](https://img.shields.io/badge/X-14171A?&logo=x&logoColor=white&labelColor=101010)](https://www.x.com/pedroelhumano)
 <br>
 
 <!-- Descripción-->
@@ -56,12 +56,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=github_dark"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroelhumano&langs_count=10&hide_border=true&layout=compact&theme=github_dark"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=github_dark"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=pedroelhumano&hide_border=true&show_icons=true&theme=github_dark"/>
     </td>
   </tr>
 </table>
@@ -76,7 +76,7 @@
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedroelhumano/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/?theme=dark)
+[![m](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/pedroelhumano/)
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://www.X.com/pedroelhumano)
 </details>
 
@@ -92,4 +92,4 @@
 <!-- Visitas al perfil-->
 <hr/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&style=for-the-badge&color=red&label=Total%20profile%20views)
+![GitHub Views](https://komarev.com/ghpvc/?username=pedroelhumano&style=for-the-badge&color=red&label=Total%20profile%20views)
