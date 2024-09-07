@@ -3,7 +3,7 @@ import fetch from 'node-fetch'
 
 import {
   PLACEHOLDERS,
-  YOUTUBE_WOTANCODE_CHANNEL_ID,
+  YOUTUBE_PEDROELHUMANO_CHANNEL_ID,
   NUMBER_OF
 } from './constants.js'
 
@@ -11,7 +11,7 @@ const { YOUTUBE_API_KEY } = process.env
 
 // Get Youtube Videos
 const getLatestYoutubeVideos = (
-  { channelId } = { channelId: YOUTUBE_WOTANCODE_CHANNEL_ID }
+  { channelId } = { channelId: YOUTUBE_PEDROELHUMANO_CHANNEL_ID }
 ) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/search?key=${YOUTUBE_API_KEY}&channelId=${channelId}&part=snippet,id&order=date&maxResults=${NUMBER_OF.YOUTUBE_VIDEOS}`
