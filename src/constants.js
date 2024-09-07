@@ -1,4 +1,4 @@
-export const PEDROELHUMANO = 'UCwISu2hFg7EpOIZ8aV7iS6g'
+export const YOUTUBE_PEDROELHUMANO_CHANNEL_ID = 'UCwISu2hFg7EpOIZ8aV7iS6g'
 
 export const NUMBER_OF = {
   YOUTUBE_VIDEOS: 6
