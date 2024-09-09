@@ -30,7 +30,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 </a>`
 
 const generateGithubProfileHTML = (avatarUrl) => `
-  <img style='border-radius: 50%; width: 30%;' src='${avatarUrl}' alt='GitHub profile picture' />`;
+  <img style='width: 30%;' src='${avatarUrl}' alt='GitHub profile picture' />`;
 
 (async () => {
   const [template, youtubeVideosResponse, githubProfileAvatarUrl] = await Promise.all([
