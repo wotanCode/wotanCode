@@ -51,7 +51,7 @@ const generateGithubProfileHTML = (avatarUrl) => `
 
   const newMarkdown = template
     .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
-    .replace(PLACEHOLDERS.GITHUB_PROFILE, githubProfileHTML)
+    .replace(PLACEHOLDERS.GITHUB_PROFILE_AVATAR, githubProfileHTML)
 
   await fs.writeFile('README.md', newMarkdown)
 })()
