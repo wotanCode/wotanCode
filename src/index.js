@@ -4,12 +4,12 @@ import fetch from 'node-fetch'
 import {
   PLACEHOLDERS,
   YOUTUBE_PEDROELHUMANO_CHANNEL_ID,
-  NUMBER_OF
+  NUMBER_OF,
+  GITHUB_PEDROELHUMANO_USERNAME
 } from './constants.js'
 
 const { YOUTUBE_API_KEY } = process.env
 
-// Get Youtube Videos
 const getLatestYoutubeVideos = (
   { channelId } = { channelId: YOUTUBE_PEDROELHUMANO_CHANNEL_ID }
 ) =>
@@ -19,16 +19,24 @@ const getLatestYoutubeVideos = (
     .then((res) => res.json())
     .then((videos) => videos.items)
 
+const getGithubProfile = ({ userName } = { userName: GITHUB_PEDROELHUMANO_USERNAME }) =>
+  fetch(`https://api.github.com/users/${userName}`)
+    .then((res) => res.json())
+    .then((data) => data.avatar_url)
+
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
-</a>`;
+</a>`
 
-// Generate ReadmeFile
+const generateGithubProfileHTML = (avatarUrl) => `
+  <img width='30%' src='${avatarUrl}' alt='GitHub profile picture' />`;
+
 (async () => {
-  const [template, youtubeVideosResponse] = await Promise.all([
+  const [template, youtubeVideosResponse, githubProfileAvatarUrl] = await Promise.all([
     fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    getLatestYoutubeVideos()
+    getLatestYoutubeVideos(),
+    getGithubProfile()
   ])
 
   const latestYoutubeVideos = youtubeVideosResponse
@@ -38,9 +46,12 @@ const generateYoutubeHTML = ({ title, videoId }) => `
       return generateYoutubeHTML({ videoId, title })
     })
     .join('')
-  const newMarkdown = template.replace(
-    PLACEHOLDERS.LATEST_YOUTUBE,
-    latestYoutubeVideos
-  )
+
+  const githubProfileHTML = generateGithubProfileHTML(githubProfileAvatarUrl)
+
+  const newMarkdown = template
+    .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
+    .replace(PLACEHOLDERS.GITHUB_PROFILE, githubProfileHTML)
+
   await fs.writeFile('README.md', newMarkdown)
 })()
