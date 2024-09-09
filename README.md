@@ -17,7 +17,7 @@
 <!-- Descripción-->
 <div align="center">
   
-  <img style='border-radius: 50%; width: 30%;' src='https://avatars.githubusercontent.com/u/72775296?v=4' alt='GitHub profile picture' />
+  <img style='width: 30%;' src='https://avatars.githubusercontent.com/u/72775296?v=4' alt='GitHub profile picture' />
 </div>
 <h4 align="center">
   🔴Desarrollador de Software🔴<br>
@@ -46,17 +46,7 @@
 </a>
 
 <hr/>
-
-<details>
-  <summary>Tecnologías</summary>
-  <!-- Sección de tecnologías -->
-
 <!-- Estadísticas -->
-<br>
-<hr/>
-
-<h2>🟢MIS ESTADÍSTICAS🟢</h2>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -69,8 +59,6 @@
     </td>
   </tr>
 </table>
-
-</details>
 
 <!-- Redes sociales -->
 <details>
