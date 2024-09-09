@@ -16,7 +16,7 @@
 
 <!-- Descripción-->
 
-  <img width='30%' src='https://avatars.githubusercontent.com/u/72775296?v=4' alt='GitHub profile picture' />
+  <img style='border-radius: 50%; width: 30%;' src='https://avatars.githubusercontent.com/u/72775296?v=4' alt='GitHub profile picture' />
 <h4 align="center">
   🔴Desarrollador de Software🔴<br>
   🔵Maestro Jedi🔵
