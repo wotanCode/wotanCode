@@ -27,17 +27,7 @@
 %{{latest_youtube}}%
 
 <hr/>
-
-<details>
-  <summary>Tecnologías</summary>
-  <!-- Sección de tecnologías -->
-
 <!-- Estadísticas -->
-<br>
-<hr/>
-
-<h2>🟢MIS ESTADÍSTICAS🟢</h2>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -50,8 +40,6 @@
     </td>
   </tr>
 </table>
-
-</details>
 
 <!-- Redes sociales -->
 <details>
