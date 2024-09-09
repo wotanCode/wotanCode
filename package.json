@@ -1,23 +1,23 @@
 {
-  "name": "update-readme",
+  "name": "github-readme",
   "version": "1.0.0",
   "type": "module",
   "description": "Readme profile description on Github",
   "main": "index.js",
   "author": "Pedro Yanez",
   "license": "MIT",
-  "homepage": "https://github.com/wotancode/wotancode#readme",
+  "homepage": "https://github.com/pedroelhumano/pedroelhumano#readme",
   "scripts": {
     "update-readme": "node src/index.js",
     "lint": "eslint --fix --ext .js .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/wotanCode/wotanCode/issues"
+    "url": "https://github.com/pedroelhumano/pedroelhumano/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wotanCode/wotanCode.git"
+    "url": "https://github.com/pedroelhumano/pedroelhumano.git"
   },
   "keywords": [
     "readme",
