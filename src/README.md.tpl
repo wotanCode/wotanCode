@@ -15,9 +15,11 @@
 <br>
 
 <!-- Descripción-->
+<!--
 <div align="center">
   %{{github_profile_avatar}}%
 </div>
+-->
 <h4 align="center">
   🔴Desarrollador de Software🔴<br>
   🔵Maestro Jedi🔵
