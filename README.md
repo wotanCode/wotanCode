@@ -28,6 +28,9 @@
 
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 
+<a href='https://youtu.be/xc22tZnAaXU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xc22tZnAaXU/mqdefault.jpg' alt='Torneo de ajedrez novicio Arena 2024 - Nerdearla' />
+</a>
 <a href='https://youtu.be/11qUP9h-cR8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/11qUP9h-cR8/mqdefault.jpg' alt='Combate medieval - Santiago de Chile' />
 </a>
@@ -42,9 +45,6 @@
 </a>
 <a href='https://youtu.be/gKvrdj1nAlY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/gKvrdj1nAlY/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 10' />
-</a>
-<a href='https://youtu.be/iL1x_w7VJH8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iL1x_w7VJH8/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 09' />
 </a>
 
 <hr/>
