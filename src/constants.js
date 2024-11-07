@@ -1,6 +1,6 @@
-export const YOUTUBE_PEDROELHUMANO_CHANNEL_ID = 'UCwISu2hFg7EpOIZ8aV7iS6g'
+export const YOUTUBE_WOTANCODE_CHANNEL_ID = 'UCwISu2hFg7EpOIZ8aV7iS6g'
 
-export const GITHUB_PEDROELHUMANO_USERNAME = 'pedroelhumano'
+export const GITHUB_WOTANCODE_USERNAME = 'wotanCode'
 
 export const NUMBER_OF = {
   YOUTUBE_VIDEOS: 6

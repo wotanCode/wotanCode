@@ -3,15 +3,15 @@ import fetch from 'node-fetch'
 
 import {
   PLACEHOLDERS,
-  YOUTUBE_PEDROELHUMANO_CHANNEL_ID,
+  YOUTUBE_WOTANCODE_CHANNEL_ID,
   NUMBER_OF,
-  GITHUB_PEDROELHUMANO_USERNAME
+  GITHUB_WOTANCODE_USERNAME
 } from './constants.js'
 
 const { YOUTUBE_API_KEY } = process.env
 
 const getLatestYoutubeVideos = (
-  { channelId } = { channelId: YOUTUBE_PEDROELHUMANO_CHANNEL_ID }
+  { channelId } = { channelId: YOUTUBE_WOTANCODE_CHANNEL_ID }
 ) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/search?key=${YOUTUBE_API_KEY}&channelId=${channelId}&part=snippet,id&order=date&maxResults=${NUMBER_OF.YOUTUBE_VIDEOS}`
@@ -19,7 +19,9 @@ const getLatestYoutubeVideos = (
     .then((res) => res.json())
     .then((videos) => videos.items)
 
-const getGithubProfile = ({ userName } = { userName: GITHUB_PEDROELHUMANO_USERNAME }) =>
+const getGithubProfile = (
+  { userName } = { userName: GITHUB_WOTANCODE_USERNAME }
+) =>
   fetch(`https://api.github.com/users/${userName}`)
     .then((res) => res.json())
     .then((data) => data.avatar_url)
@@ -33,11 +35,12 @@ const generateGithubProfileHTML = (avatarUrl) => `
   <img style='width: 30%;' src='${avatarUrl}' alt='GitHub profile picture' />`;
 
 (async () => {
-  const [template, youtubeVideosResponse, githubProfileAvatarUrl] = await Promise.all([
-    fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    getLatestYoutubeVideos(),
-    getGithubProfile()
-  ])
+  const [template, youtubeVideosResponse, githubProfileAvatarUrl] =
+    await Promise.all([
+      fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+      getLatestYoutubeVideos(),
+      getGithubProfile()
+    ])
 
   const latestYoutubeVideos = youtubeVideosResponse
     .map(({ id, snippet }) => {
