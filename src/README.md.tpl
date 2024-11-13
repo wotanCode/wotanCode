@@ -24,7 +24,9 @@
 </h4>
 
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
-%{{latest_youtube}}%
+<div align="center">
+  %{{latest_youtube}}%
+</div>
 
 <hr/>
 <!-- Estadísticas -->
