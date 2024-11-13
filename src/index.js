@@ -28,7 +28,7 @@ const getGithubProfile = (
 
 const generateYoutubeHTML = ({ title, videoId }) => `
 <a href='https://youtu.be/${videoId}' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
+  <img width='33%' src='https://img.youtube.com/vi/${videoId}/mqdefault.jpg' alt='${title}' />
 </a>`
 
 const generateGithubProfileHTML = (avatarUrl) => `
