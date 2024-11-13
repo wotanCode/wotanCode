@@ -25,25 +25,27 @@
 </h4>
 
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
-
+<div align="center">
+  
 <a href='https://youtu.be/xc22tZnAaXU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xc22tZnAaXU/mqdefault.jpg' alt='Torneo de ajedrez novicio Arena 2024 - Nerdearla' />
+  <img width='33%' src='https://img.youtube.com/vi/xc22tZnAaXU/mqdefault.jpg' alt='Torneo de ajedrez novicio Arena 2024 - Nerdearla' />
 </a>
 <a href='https://youtu.be/11qUP9h-cR8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/11qUP9h-cR8/mqdefault.jpg' alt='Combate medieval - Santiago de Chile' />
+  <img width='33%' src='https://img.youtube.com/vi/11qUP9h-cR8/mqdefault.jpg' alt='Combate medieval - Santiago de Chile' />
 </a>
 <a href='https://youtu.be/q0C4XHuRNmU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/q0C4XHuRNmU/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 13' />
+  <img width='33%' src='https://img.youtube.com/vi/q0C4XHuRNmU/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 13' />
 </a>
 <a href='https://youtu.be/wg3eFB0Nzzs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/wg3eFB0Nzzs/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 12' />
+  <img width='33%' src='https://img.youtube.com/vi/wg3eFB0Nzzs/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 12' />
 </a>
 <a href='https://youtu.be/ZCGw7Q2DRhE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZCGw7Q2DRhE/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 11' />
+  <img width='33%' src='https://img.youtube.com/vi/ZCGw7Q2DRhE/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 11' />
 </a>
 <a href='https://youtu.be/gKvrdj1nAlY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gKvrdj1nAlY/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 10' />
+  <img width='33%' src='https://img.youtube.com/vi/gKvrdj1nAlY/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 10' />
 </a>
+</div>
 
 <hr/>
 <!-- Estadísticas -->
