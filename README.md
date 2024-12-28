@@ -27,6 +27,12 @@
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 <div align="center">
   
+<a href='https://youtu.be/MIAWEbxzDHs' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/MIAWEbxzDHs/mqdefault.jpg' alt='Curso C++ Introducción al lenguaje - 2025' /zz>
+</a>
+<a href='https://youtu.be/XL0AOvybeNU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XL0AOvybeNU/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial completo' /zz>
+</a>
 <a href='https://youtu.be/xc22tZnAaXU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xc22tZnAaXU/mqdefault.jpg' alt='Torneo de ajedrez novicio Arena 2024 - Nerdearla' /zz>
 </a>
@@ -38,12 +44,6 @@
 </a>
 <a href='https://youtu.be/wg3eFB0Nzzs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/wg3eFB0Nzzs/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 12' /zz>
-</a>
-<a href='https://youtu.be/ZCGw7Q2DRhE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/ZCGw7Q2DRhE/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 11' /zz>
-</a>
-<a href='https://youtu.be/gKvrdj1nAlY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/gKvrdj1nAlY/mqdefault.jpg' alt='Squally - Gamehacking guía - Parte 10' /zz>
 </a>
 </div>
 
