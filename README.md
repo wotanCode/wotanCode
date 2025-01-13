@@ -27,6 +27,9 @@
 #### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
 <div align="center">
   
+<a href='https://youtu.be/K88MAyetjac' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/K88MAyetjac/mqdefault.jpg' alt='Curso C++ Programación orientada a objetos (POO) - 2025' /zz>
+</a>
 <a href='https://youtu.be/SUe0HA5cXAY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/SUe0HA5cXAY/mqdefault.jpg' alt='Curso C++ Proyecto batalla naval - 2025' /zz>
 </a>
@@ -41,9 +44,6 @@
 </a>
 <a href='https://youtu.be/xc22tZnAaXU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xc22tZnAaXU/mqdefault.jpg' alt='Torneo de ajedrez novicio Arena 2024 - Nerdearla' /zz>
-</a>
-<a href='https://youtu.be/11qUP9h-cR8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/11qUP9h-cR8/mqdefault.jpg' alt='Combate medieval - Santiago de Chile' /zz>
 </a>
 </div>
 
