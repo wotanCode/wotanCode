@@ -6,24 +6,19 @@
           width="45" />
 </h1>
 
-  [![GitHub Followers](https://img.shields.io/github/followers/wotanCode?style=social)](https://github.com/wotanCode)
-  [![GitHub Stars](https://img.shields.io/github/stars/wotanCode?style=social)](https://github.com/wotanCode)
-  [![Youtube](https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
-  [![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
+[![GitHub Followers][github_followers_badge]][github]
+[![GitHub Stars][github_stars_badge]][github]
+[![Youtube][youtube_badge]][youtube]
+[![Linkedin][linkedin_badge]][linkedin]
 <br>
 
-<!-- Descripción-->
-<!--
-<div align="center">
-  %{{github_profile_avatar}}%
-</div>
--->
+<!-- Descripción -->
 <h4 align="center">
   🔴Desarrollador de Software🔴<br>
   🔵Maestro Jedi🔵
 </h4>
 
-#### Últimos vídeos en mi [canal de Youtube](https://youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
+#### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   %{{latest_youtube}}%
 </div>
@@ -49,20 +44,35 @@
 
 ## 🟣¡Redes sociales!🟣
 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1)
-[![Linkedin](https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedro-yanez/)
+[![Youtube][youtube_badge_large]][youtube]
+[![Linkedin][linkedin_badge_large]][linkedin]
 </details>
 
 <details>
   <summary>Juguemos</summary>
-<!-- Jugamos? -->
-
+  
 ###### ⚪¿Quieres jugar?⚪
-[![CHESS](https://img.shields.io/badge/-CHESS.COM-6C9E3F?style=flat-square&logo=Lichess&labelColor=101010)](https://www.chess.com/member/pedroelhumano)
-[![LICHESS](https://img.shields.io/badge/-LICHESS-ffffff?style=flat-square&logo=Lichess&labelColor=101010)](https://lichess.org/@/pedroelhumano)
+[![CHESS][chess_badge]][chess]
+[![LICHESS][lichess_badge]][lichess]
 </details>
 
-<!-- Visitas al perfil-->
+<!-- Visitas al perfil -->
 <hr/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=wotanCode&style=for-the-badge&color=red&label=Total%20profile%20views)
+![GitHub Views][profile_views_badge]
+
+<!-- Variables -->
+[github]: https://github.com/wotanCode
+[youtube]: https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1
+[linkedin]: https://www.linkedin.com/in/pedro-yanez/
+[chess]: https://www.chess.com/member/pedroelhumano
+[lichess]: https://lichess.org/@/pedroelhumano
+[github_followers_badge]: https://img.shields.io/github/followers/wotanCode?style=social
+[github_stars_badge]: https://img.shields.io/github/stars/wotanCode?style=social
+[youtube_badge]: https://img.shields.io/badge/Youtube-FF0000?&logo=Youtube&logoColor=white&labelColor=101010
+[linkedin_badge]: https://img.shields.io/badge/Linkedin-00d8fd?&logo=linkedin&logoColor=white&labelColor=101010
+[youtube_badge_large]: https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010
+[linkedin_badge_large]: https://img.shields.io/badge/Linkedin-00d8fd?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010
+[chess_badge]: https://img.shields.io/badge/-CHESS.COM-6C9E3F?style=flat-square&logo=Lichess&labelColor=101010
+[lichess_badge]: https://img.shields.io/badge/-LICHESS-ffffff?style=flat-square&logo=Lichess&labelColor=101010
+[profile_views_badge]: https://komarev.com/ghpvc/?username=wotanCode&style=for-the-badge&color=red&label=Total%20profile%20views
