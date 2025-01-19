@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/avi4zcSdOI8' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/avi4zcSdOI8/mqdefault.jpg' alt='Curso C++ Básicos de punteros 2025' /zz>
+</a>
 <a href='https://youtu.be/K88MAyetjac' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/K88MAyetjac/mqdefault.jpg' alt='Curso C++ Programación orientada a objetos (POO) - 2025' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/XL0AOvybeNU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XL0AOvybeNU/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial completo' /zz>
-</a>
-<a href='https://youtu.be/xc22tZnAaXU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/xc22tZnAaXU/mqdefault.jpg' alt='Torneo de ajedrez novicio Arena 2024 - Nerdearla' /zz>
 </a>
 </div>
 
