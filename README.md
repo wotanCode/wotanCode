@@ -79,7 +79,7 @@
 
 ![GitHub Views][profile_views_badge]
 
-<!-- Variables -->
+<!-- const -->
 [github]: https://github.com/wotanCode
 [youtube]: https://www.youtube.com/channel/UCwISu2hFg7EpOIZ8aV7iS6g?sub_confirmation=1
 [linkedin]: https://www.linkedin.com/in/pedro-yanez/
