@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/XtPjDHvHA5I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/XtPjDHvHA5I/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
+</a>
 <a href='https://youtu.be/lJNLdhRDPi0' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/lJNLdhRDPi0/mqdefault.jpg' alt='Reflexionando en el parque' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/Ky2iWLyCNyk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ky2iWLyCNyk/mqdefault.jpg' alt='Curso C++ Proyecto Adivina el número - 2025' /zz>
-</a>
-<a href='https://youtu.be/MIAWEbxzDHs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MIAWEbxzDHs/mqdefault.jpg' alt='Curso C++ Introducción al lenguaje - 2025' /zz>
 </a>
 </div>
 
