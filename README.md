@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/y_fdHd9hwuI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/y_fdHd9hwuI/mqdefault.jpg' alt='Como dijo el tío Iroh... #vida #avatar #reflexion' /zz>
+</a>
 <a href='https://youtu.be/9pIIoVihZUY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9pIIoVihZUY/mqdefault.jpg' alt='No compartas tus problemas al mundo #vida #pareja' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/avi4zcSdOI8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/avi4zcSdOI8/mqdefault.jpg' alt='Curso C++ Básicos de punteros 2025' /zz>
-</a>
-<a href='https://youtu.be/K88MAyetjac' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/K88MAyetjac/mqdefault.jpg' alt='Curso C++ Programación orientada a objetos (POO) - 2025' /zz>
 </a>
 </div>
 
