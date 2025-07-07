@@ -21,6 +21,12 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/v6PgfkD1A-E' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/v6PgfkD1A-E/mqdefault.jpg' alt='Pensamientos del reino de los cielos #vida #templarios' /zz>
+</a>
+<a href='https://youtu.be/oMwWZUxWH5o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/oMwWZUxWH5o/mqdefault.jpg' alt='Pensamientos jedi... #vida #jedi #pensamientos' /zz>
+</a>
 <a href='https://youtu.be/y_fdHd9hwuI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/y_fdHd9hwuI/mqdefault.jpg' alt='Como dijo el tío Iroh... #vida #avatar #reflexion' /zz>
 </a>
@@ -32,12 +38,6 @@
 </a>
 <a href='https://youtu.be/XtPjDHvHA5I' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/XtPjDHvHA5I/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
-</a>
-<a href='https://youtu.be/lJNLdhRDPi0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lJNLdhRDPi0/mqdefault.jpg' alt='Reflexionando en el parque' /zz>
-</a>
-<a href='https://youtu.be/avi4zcSdOI8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/avi4zcSdOI8/mqdefault.jpg' alt='Curso C++ Básicos de punteros 2025' /zz>
 </a>
 </div>
 
