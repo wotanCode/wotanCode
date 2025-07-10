@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/FF1bKUKWkEA' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/FF1bKUKWkEA/mqdefault.jpg' alt='Los actos de valor ameritan sacrificios #consejos #reflexion' /zz>
+</a>
 <a href='https://youtu.be/v6PgfkD1A-E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/v6PgfkD1A-E/mqdefault.jpg' alt='Pensamientos del reino de los cielos #vida #templarios' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/TV6UKKI4ahI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/TV6UKKI4ahI/mqdefault.jpg' alt='Reflexión de Balduino #balduino #reyleproso' /zz>
-</a>
-<a href='https://youtu.be/XtPjDHvHA5I' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XtPjDHvHA5I/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
 </a>
 </div>
 
