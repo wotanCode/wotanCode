@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/7zoCFComWFo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/7zoCFComWFo/mqdefault.jpg' alt='Como confrontar emociones negativas #consejos #reflexion #vida #catarsis' /zz>
+</a>
 <a href='https://youtu.be/FF1bKUKWkEA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FF1bKUKWkEA/mqdefault.jpg' alt='Los actos de valor ameritan sacrificios #consejos #reflexion' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/9pIIoVihZUY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9pIIoVihZUY/mqdefault.jpg' alt='No compartas tus problemas al mundo #vida #pareja' /zz>
-</a>
-<a href='https://youtu.be/TV6UKKI4ahI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TV6UKKI4ahI/mqdefault.jpg' alt='Reflexión de Balduino #balduino #reyleproso' /zz>
 </a>
 </div>
 
