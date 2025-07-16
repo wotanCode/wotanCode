@@ -21,6 +21,12 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/iDrFuzrbZKk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/iDrFuzrbZKk/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
+</a>
+<a href='https://youtu.be/-FljT_oQS84' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/-FljT_oQS84/mqdefault.jpg' alt='Reflexiones sobre el karma #reflexiones #pensamientos #vida #karma' /zz>
+</a>
 <a href='https://youtu.be/7zoCFComWFo' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/7zoCFComWFo/mqdefault.jpg' alt='Como confrontar emociones negativas #consejos #reflexion #vida #catarsis' /zz>
 </a>
@@ -32,12 +38,6 @@
 </a>
 <a href='https://youtu.be/oMwWZUxWH5o' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/oMwWZUxWH5o/mqdefault.jpg' alt='Pensamientos jedi... #vida #jedi #pensamientos' /zz>
-</a>
-<a href='https://youtu.be/y_fdHd9hwuI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/y_fdHd9hwuI/mqdefault.jpg' alt='Como dijo el tío Iroh... #vida #avatar #reflexion' /zz>
-</a>
-<a href='https://youtu.be/9pIIoVihZUY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9pIIoVihZUY/mqdefault.jpg' alt='No compartas tus problemas al mundo #vida #pareja' /zz>
 </a>
 </div>
 
