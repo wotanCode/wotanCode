@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/jtQMK_7k51g' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/jtQMK_7k51g/mqdefault.jpg' alt='Es el camino lo que es valioso, no la meta #vida #reflexion #pensamientos' /zz>
+</a>
 <a href='https://youtu.be/iDrFuzrbZKk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iDrFuzrbZKk/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/v6PgfkD1A-E' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/v6PgfkD1A-E/mqdefault.jpg' alt='Pensamientos del reino de los cielos #vida #templarios' /zz>
-</a>
-<a href='https://youtu.be/oMwWZUxWH5o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oMwWZUxWH5o/mqdefault.jpg' alt='Pensamientos jedi... #vida #jedi #pensamientos' /zz>
 </a>
 </div>
 
