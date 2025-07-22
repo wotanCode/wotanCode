@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/HvM9uo0GQYE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/HvM9uo0GQYE/mqdefault.jpg' alt='Una huella en las arenas del tiempo #vida #pensamientospositivos #reflexion' /zz>
+</a>
 <a href='https://youtu.be/jtQMK_7k51g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jtQMK_7k51g/mqdefault.jpg' alt='Es el camino lo que es valioso, no la meta #vida #reflexion #pensamientos' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/FF1bKUKWkEA' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/FF1bKUKWkEA/mqdefault.jpg' alt='Los actos de valor ameritan sacrificios #consejos #reflexion' /zz>
-</a>
-<a href='https://youtu.be/v6PgfkD1A-E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/v6PgfkD1A-E/mqdefault.jpg' alt='Pensamientos del reino de los cielos #vida #templarios' /zz>
 </a>
 </div>
 
