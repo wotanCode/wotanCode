@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/6ge8FPZoIIw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/6ge8FPZoIIw/mqdefault.jpg' alt='Pon tus manos sobre tu muñeca... #desarrollopersonal #reflexionesdeldia #meditacion #pensamientos' /zz>
+</a>
 <a href='https://youtu.be/Ixht7BGicu8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ixht7BGicu8/mqdefault.jpg' alt='En algún punto de tu vida...#reflexionesdeldia #desarrollopersonal #pensamientos #meditacion #vida' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/-FljT_oQS84' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/-FljT_oQS84/mqdefault.jpg' alt='Reflexiones sobre el karma #reflexiones #pensamientos #vida #karma' /zz>
-</a>
-<a href='https://youtu.be/7zoCFComWFo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7zoCFComWFo/mqdefault.jpg' alt='Como confrontar emociones negativas #consejos #reflexion #vida #catarsis' /zz>
 </a>
 </div>
 
