@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/xoIGytYgWEE' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/xoIGytYgWEE/mqdefault.jpg' alt='No puedes entregarte al fracaso' /zz>
+</a>
 <a href='https://youtu.be/6ge8FPZoIIw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6ge8FPZoIIw/mqdefault.jpg' alt='Pon tus manos sobre tu muñeca... #desarrollopersonal #reflexionesdeldia #meditacion #pensamientos' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/iDrFuzrbZKk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/iDrFuzrbZKk/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
-</a>
-<a href='https://youtu.be/-FljT_oQS84' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-FljT_oQS84/mqdefault.jpg' alt='Reflexiones sobre el karma #reflexiones #pensamientos #vida #karma' /zz>
 </a>
 </div>
 
