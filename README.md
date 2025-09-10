@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/L8_dNjVrZoY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/L8_dNjVrZoY/mqdefault.jpg' alt='Emociones sin reconocer #pensamientos #desarrollopersonal #reflexionesdeldia #vida' /zz>
+</a>
 <a href='https://youtu.be/xoIGytYgWEE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xoIGytYgWEE/mqdefault.jpg' alt='No puedes entregarte al fracaso' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/jtQMK_7k51g' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/jtQMK_7k51g/mqdefault.jpg' alt='Es el camino lo que es valioso, no la meta #vida #reflexion #pensamientos' /zz>
-</a>
-<a href='https://youtu.be/iDrFuzrbZKk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iDrFuzrbZKk/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
 </a>
 </div>
 
