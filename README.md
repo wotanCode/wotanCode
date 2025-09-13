@@ -21,8 +21,8 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
-<a href='https://youtu.be/L8_dNjVrZoY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/L8_dNjVrZoY/mqdefault.jpg' alt='Emociones sin reconocer #pensamientos #desarrollopersonal #reflexionesdeldia #vida' /zz>
+<a href='https://youtu.be/uUtbL0gMMSI' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/uUtbL0gMMSI/mqdefault.jpg' alt='Emociones sin reconocer #pensamientos #desarrollopersonal #reflexionesdeldia #meditacion #vida' /zz>
 </a>
 <a href='https://youtu.be/xoIGytYgWEE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xoIGytYgWEE/mqdefault.jpg' alt='No puedes entregarte al fracaso' /zz>
