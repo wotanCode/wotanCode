@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/nqw7FnwzXrM' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/nqw7FnwzXrM/mqdefault.jpg' alt='Mañana saldrá el sol.. #pensamientos #desarrollopersonal #reflexionesdeldia #vida #menteinconsciente' /zz>
+</a>
 <a href='https://youtu.be/uUtbL0gMMSI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/uUtbL0gMMSI/mqdefault.jpg' alt='Emociones sin reconocer #pensamientos #desarrollopersonal #reflexionesdeldia #meditacion #vida' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/HvM9uo0GQYE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/HvM9uo0GQYE/mqdefault.jpg' alt='Una huella en las arenas del tiempo #vida #pensamientospositivos #reflexion' /zz>
-</a>
-<a href='https://youtu.be/jtQMK_7k51g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jtQMK_7k51g/mqdefault.jpg' alt='Es el camino lo que es valioso, no la meta #vida #reflexion #pensamientos' /zz>
 </a>
 </div>
 
