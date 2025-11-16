@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/9Gwf4uqmJEU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/9Gwf4uqmJEU/mqdefault.jpg' alt='El arte abstracto es un fraude #arteabstracto #arte' /zz>
+</a>
 <a href='https://youtu.be/nqw7FnwzXrM' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/nqw7FnwzXrM/mqdefault.jpg' alt='Mañana saldrá el sol.. #pensamientos #desarrollopersonal #reflexionesdeldia #vida #menteinconsciente' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/Ixht7BGicu8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/Ixht7BGicu8/mqdefault.jpg' alt='En algún punto de tu vida...#reflexionesdeldia #desarrollopersonal #pensamientos #meditacion #vida' /zz>
-</a>
-<a href='https://youtu.be/HvM9uo0GQYE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HvM9uo0GQYE/mqdefault.jpg' alt='Una huella en las arenas del tiempo #vida #pensamientospositivos #reflexion' /zz>
 </a>
 </div>
 
