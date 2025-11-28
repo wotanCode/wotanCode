@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/YeFUUqKPwAU' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/YeFUUqKPwAU/mqdefault.jpg' alt='Avanti Almafuerte #avanti #almafuerte' /zz>
+</a>
 <a href='https://youtu.be/9Gwf4uqmJEU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/9Gwf4uqmJEU/mqdefault.jpg' alt='El arte abstracto es un fraude #arteabstracto #arte' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/6ge8FPZoIIw' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/6ge8FPZoIIw/mqdefault.jpg' alt='Pon tus manos sobre tu muñeca... #desarrollopersonal #reflexionesdeldia #meditacion #pensamientos' /zz>
-</a>
-<a href='https://youtu.be/Ixht7BGicu8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ixht7BGicu8/mqdefault.jpg' alt='En algún punto de tu vida...#reflexionesdeldia #desarrollopersonal #pensamientos #meditacion #vida' /zz>
 </a>
 </div>
 
