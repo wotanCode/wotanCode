@@ -21,6 +21,9 @@
 #### Últimos vídeos en mi [canal de Youtube][youtube]
 <div align="center">
   
+<a href='https://youtu.be/AIMVLV3XIV4' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/AIMVLV3XIV4/mqdefault.jpg' alt='La gente honesta también tiene derechos #estoico #pensamientos #reflexiones' /zz>
+</a>
 <a href='https://youtu.be/YeFUUqKPwAU' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/YeFUUqKPwAU/mqdefault.jpg' alt='Avanti Almafuerte #avanti #almafuerte' /zz>
 </a>
@@ -35,9 +38,6 @@
 </a>
 <a href='https://youtu.be/xoIGytYgWEE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xoIGytYgWEE/mqdefault.jpg' alt='No puedes entregarte al fracaso' /zz>
-</a>
-<a href='https://youtu.be/6ge8FPZoIIw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6ge8FPZoIIw/mqdefault.jpg' alt='Pon tus manos sobre tu muñeca... #desarrollopersonal #reflexionesdeldia #meditacion #pensamientos' /zz>
 </a>
 </div>
 
