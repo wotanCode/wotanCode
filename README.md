@@ -39,63 +39,6 @@
 <a href='https://youtu.be/xoIGytYgWEE' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/xoIGytYgWEE/mqdefault.jpg' alt='No puedes entregarte al fracaso' /zz>
 </a>
-<a href='https://youtu.be/6ge8FPZoIIw' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/6ge8FPZoIIw/mqdefault.jpg' alt='Pon tus manos sobre tu muñeca... #desarrollopersonal #reflexionesdeldia #meditacion #pensamientos' /zz>
-</a>
-<a href='https://youtu.be/Ixht7BGicu8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ixht7BGicu8/mqdefault.jpg' alt='En algún punto de tu vida...#reflexionesdeldia #desarrollopersonal #pensamientos #meditacion #vida' /zz>
-</a>
-<a href='https://youtu.be/HvM9uo0GQYE' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/HvM9uo0GQYE/mqdefault.jpg' alt='Una huella en las arenas del tiempo #vida #pensamientospositivos #reflexion' /zz>
-</a>
-<a href='https://youtu.be/jtQMK_7k51g' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/jtQMK_7k51g/mqdefault.jpg' alt='Es el camino lo que es valioso, no la meta #vida #reflexion #pensamientos' /zz>
-</a>
-<a href='https://youtu.be/iDrFuzrbZKk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/iDrFuzrbZKk/mqdefault.jpg' alt='Reflexionando en el parque: Somos un espíritu #vida #naturaleza #espiritualidad' /zz>
-</a>
-<a href='https://youtu.be/-FljT_oQS84' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-FljT_oQS84/mqdefault.jpg' alt='Reflexiones sobre el karma #reflexiones #pensamientos #vida #karma' /zz>
-</a>
-<a href='https://youtu.be/7zoCFComWFo' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/7zoCFComWFo/mqdefault.jpg' alt='Como confrontar emociones negativas #consejos #reflexion #vida #catarsis' /zz>
-</a>
-<a href='https://youtu.be/FF1bKUKWkEA' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/FF1bKUKWkEA/mqdefault.jpg' alt='Los actos de valor ameritan sacrificios #consejos #reflexion' /zz>
-</a>
-<a href='https://youtu.be/v6PgfkD1A-E' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/v6PgfkD1A-E/mqdefault.jpg' alt='Pensamientos del reino de los cielos #vida #templarios' /zz>
-</a>
-<a href='https://youtu.be/oMwWZUxWH5o' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/oMwWZUxWH5o/mqdefault.jpg' alt='Pensamientos jedi... #vida #jedi #pensamientos' /zz>
-</a>
-<a href='https://youtu.be/y_fdHd9hwuI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/y_fdHd9hwuI/mqdefault.jpg' alt='Como dijo el tío Iroh... #vida #avatar #reflexion' /zz>
-</a>
-<a href='https://youtu.be/9pIIoVihZUY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/9pIIoVihZUY/mqdefault.jpg' alt='No compartas tus problemas al mundo #vida #pareja' /zz>
-</a>
-<a href='https://youtu.be/TV6UKKI4ahI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/TV6UKKI4ahI/mqdefault.jpg' alt='Reflexión de Balduino #balduino #reyleproso' /zz>
-</a>
-<a href='https://youtu.be/lJNLdhRDPi0' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/lJNLdhRDPi0/mqdefault.jpg' alt='Reflexionando en el parque' /zz>
-</a>
-<a href='https://youtu.be/avi4zcSdOI8' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/avi4zcSdOI8/mqdefault.jpg' alt='Curso C++ Básicos de punteros 2025' /zz>
-</a>
-<a href='https://youtu.be/K88MAyetjac' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/K88MAyetjac/mqdefault.jpg' alt='Curso C++ Programación orientada a objetos (POO) - 2025' /zz>
-</a>
-<a href='https://youtu.be/SUe0HA5cXAY' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/SUe0HA5cXAY/mqdefault.jpg' alt='Curso C++ Proyecto batalla naval - 2025' /zz>
-</a>
-<a href='https://youtu.be/Ky2iWLyCNyk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/Ky2iWLyCNyk/mqdefault.jpg' alt='Curso C++ Proyecto Adivina el número - 2025' /zz>
-</a>
-<a href='https://youtu.be/MIAWEbxzDHs' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/MIAWEbxzDHs/mqdefault.jpg' alt='Curso C++ Introducción al lenguaje - 2025' /zz>
-</a>
 </div>
 
 <hr/>
