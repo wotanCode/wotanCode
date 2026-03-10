@@ -23,21 +23,6 @@
   %{{latest_youtube}}%
 </div>
 
-<hr/>
-<!-- Estadísticas -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wotanCode&langs_count=10&hide_border=true&layout=compact&theme=github_dark"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=wotanCode&hide_border=true&show_icons=true&theme=github_dark"/>
-    </td>
-  </tr>
-</table>
-
 <!-- Redes sociales -->
 <details>
   <summary>Conéctate conmigo</summary>
